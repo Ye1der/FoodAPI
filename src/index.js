@@ -1,7 +1,7 @@
 import express from 'express'
 import { pool } from './DBpg.js'
 import { Port } from './config.js'
-import fs from 'fs'
+import fs from 'fs/promises'
 
 const app = express()
 
@@ -26,31 +26,47 @@ app.get('/main', async(req, res)=>{
 })
 
 app.get('/agregarTabla', async(req, res) => {
+  
   try {
-    const result = await pool.query('CREATE TABLE alimento (id_alimento serial NOT NULL constraint pk_alimento primary key, nombre character varying(100) NULL, calorias numeric(5, 1) NULL, proteinas numeric(4, 1) NULL, carbohidratos numeric(4, 1) NULL, grasas numeric(4, 1) NULL)')
-    res.json(result.rows[0])
+    const query = `
+      CREATE TABLE alimento2 (
+      id_alimento serial NOT NULL constraint pk_alimento2 primary key, 
+      nombre character varying(100) not null, 
+      calorias numeric(5, 1) not null, 
+      proteinas numeric(4, 1) not null, 
+      carbohidratos numeric(4, 1) not null, 
+      grasas numeric(4, 1) not null
+      )
+    `
+    await pool.query(query);
+
+    res.status(200).send("operacion realizada con exito")
   } catch (error) {
-    console.error(error);
+    console.error("Error al crear la tabla en la base de datos", error);
+    res.status(500).send("Error al crear la tabla")
   }
 })
 
 app.get('/pushData', async (req, res) => {
 
   try {
-    const data = await fs.readFile('alimentos.json', 'utf8')
+    const data = await fs.readFile('src/alimentos.json', 'utf8')
     const alimentos = JSON.parse(data)
 
-    alimentos.array.forEach(async (element) => {
-      await pool.query(`insert into alimento(nombre, calorias, proteinas, carbohidratos, grasas) values(${element.nombre}, ${parseInt(element.calorias)}, ${parseInt(element.proteinas)}, ${parseInt(element.carbohidratos)}, ${parseInt(element.grasas)});`)
+    
+    for ( const element of alimentos) {
+      const {nombre, calorias, proteinas, carbohidratos, grasas} = element
+      const values = [nombre, parseFloat(calorias), parseFloat(proteinas), parseFloat(carbohidratos), parseFloat(grasas)]
+      const query = `insert into alimento2(nombre, calorias, proteinas, carbohidratos, grasas) values($1, $2, $3, $4, $5);`
+      await pool.query(query, values)
+    };
 
-    });
+    res.status(200).send("Datos insertados correctamente")
     
   } catch (error) {
-    console.error(error)
+    console.error("Error al insertar los datos", error)
+    res.status(500).send("Error al insertar los datos")
   }
-
-
-
 })
 
 app.listen(Port);
