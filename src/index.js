@@ -30,7 +30,7 @@ app.get('/addTable', async(req, res) => {
   try {
     const query = `
       CREATE TABLE alimento (
-      id_alimento serial NOT NULL constraint pk_alimento2 primary key, 
+      id_alimento serial NOT NULL constraint pk_alimento primary key, 
       nombre character varying(100) not null, 
       calorias numeric(5, 1) not null, 
       proteinas numeric(4, 1) not null, 
