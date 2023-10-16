@@ -1,0 +1,5226 @@
+[
+  {
+    "id_alimento": 1,
+    "nombre": "Arroz Blanco",
+    "calorias": "345.0",
+    "proteinas": "8.1",
+    "carbohidratos": "76.5",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 2,
+    "nombre": "Arroz blanco cocido (sancochado)",
+    "calorias": "106.0",
+    "proteinas": "2.2",
+    "carbohidratos": "24.0",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 3,
+    "nombre": "Arroz blanco. variedad Araure",
+    "calorias": "353.0",
+    "proteinas": "8.6",
+    "carbohidratos": "78.4",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 4,
+    "nombre": "Arroz blanco. variedad Cimarrón",
+    "calorias": "355.0",
+    "proteinas": "6.1",
+    "carbohidratos": "80.5",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 5,
+    "nombre": "Arroz blanco. variedad Oryzica",
+    "calorias": "353.0",
+    "proteinas": "9.2",
+    "carbohidratos": "77.6",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 6,
+    "nombre": "Harina de Arroz",
+    "calorias": "366.0",
+    "proteinas": "7.6",
+    "carbohidratos": "82.9",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 7,
+    "nombre": "Harina de Arroz enriquecida ",
+    "calorias": "370.0",
+    "proteinas": "8.5",
+    "carbohidratos": "83.0",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 8,
+    "nombre": "Arroz integral",
+    "calorias": "354.0",
+    "proteinas": "8.5",
+    "carbohidratos": "76.7",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 9,
+    "nombre": "Arroz integral cocido (sancochado)",
+    "calorias": "96.0",
+    "proteinas": "2.4",
+    "carbohidratos": "20.8",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 10,
+    "nombre": "Arroz integral. variedad Araure",
+    "calorias": "351.0",
+    "proteinas": "8.9",
+    "carbohidratos": "72.2",
+    "grasas": "2.9"
+  },
+  {
+    "id_alimento": 11,
+    "nombre": "Arroz integral. variedad Cimarrón",
+    "calorias": "352.0",
+    "proteinas": "6.8",
+    "carbohidratos": "75.0",
+    "grasas": "2.7"
+  },
+  {
+    "id_alimento": 12,
+    "nombre": "Arroz integral. variedad Oryzica",
+    "calorias": "350.0",
+    "proteinas": "9.6",
+    "carbohidratos": "70.5",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 13,
+    "nombre": "Harina de Avena",
+    "calorias": "384.0",
+    "proteinas": "14.7",
+    "carbohidratos": "61.9",
+    "grasas": "8.6"
+  },
+  {
+    "id_alimento": 14,
+    "nombre": "Avena en Hojuelas ",
+    "calorias": "348.0",
+    "proteinas": "9.6",
+    "carbohidratos": "61.0",
+    "grasas": "7.3"
+  },
+  {
+    "id_alimento": 15,
+    "nombre": "Avena Hojuelas saborizadas ",
+    "calorias": "395.0",
+    "proteinas": "5.4",
+    "carbohidratos": "80.3",
+    "grasas": "5.8"
+  },
+  {
+    "id_alimento": 16,
+    "nombre": "Cebada grano entero",
+    "calorias": "317.0",
+    "proteinas": "11.3",
+    "carbohidratos": "64.0",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 17,
+    "nombre": "Harina de  enriquecida ",
+    "calorias": "356.0",
+    "proteinas": "8.3",
+    "carbohidratos": "75.8",
+    "grasas": "2.2"
+  },
+  {
+    "id_alimento": 18,
+    "nombre": "Cebada perlada",
+    "calorias": "323.0",
+    "proteinas": "9.0",
+    "carbohidratos": "69.5",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 19,
+    "nombre": "Arepa de Maíz amarillo. enriquecida",
+    "calorias": "184.0",
+    "proteinas": "4.2",
+    "carbohidratos": "40.2",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 20,
+    "nombre": "Maíz amarillo. grano entero",
+    "calorias": "284.0",
+    "proteinas": "8.5",
+    "carbohidratos": "53.6",
+    "grasas": "4.0"
+  },
+  {
+    "id_alimento": 21,
+    "nombre": "Harina de Maíz amarillo grano completo (funche)",
+    "calorias": "286.0",
+    "proteinas": "7.3",
+    "carbohidratos": "76.0",
+    "grasas": "3.5"
+  },
+  {
+    "id_alimento": 22,
+    "nombre": "Harina de Maíz amarillo precocida ",
+    "calorias": "355.0",
+    "proteinas": "7.2",
+    "carbohidratos": "78.8",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 23,
+    "nombre": "Harina de Maíz amarillo precocida enriquecida ",
+    "calorias": "355.0",
+    "proteinas": "7.2",
+    "carbohidratos": "78.8",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 24,
+    "nombre": "Hojuelas de Maíz amarillo azucaradas enriquecidas",
+    "calorias": "363.0",
+    "proteinas": "3.7",
+    "carbohidratos": "86.7",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 25,
+    "nombre": "Hojuelas de Maíz amarillo enriquecidas",
+    "calorias": "350.0",
+    "proteinas": "6.7",
+    "carbohidratos": "80.0",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 26,
+    "nombre": "Maíz amarillo inflado azucarado enriquecido",
+    "calorias": "369.0",
+    "proteinas": "5.5",
+    "carbohidratos": "86.7",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 27,
+    "nombre": "Maíz amarillo tierno enlatado. estilo crema",
+    "calorias": "77.0",
+    "proteinas": "1.5",
+    "carbohidratos": "17.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 28,
+    "nombre": "Maíz amarillo tierno enlatado. grano entero",
+    "calorias": "85.0",
+    "proteinas": "2.5",
+    "carbohidratos": "18.0",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 29,
+    "nombre": "Arepa de Maíz blanco enriquecida",
+    "calorias": "168.0",
+    "proteinas": "3.8",
+    "carbohidratos": "36.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 30,
+    "nombre": "Arepa de Maíz blanco grano pelado con cal",
+    "calorias": "196.0",
+    "proteinas": "5.7",
+    "carbohidratos": "38.5",
+    "grasas": "2.5"
+  },
+  {
+    "id_alimento": 31,
+    "nombre": "Maíz blanco grano entero",
+    "calorias": "286.0",
+    "proteinas": "9.0",
+    "carbohidratos": "52.8",
+    "grasas": "4.3"
+  },
+  {
+    "id_alimento": 32,
+    "nombre": "Harina de Maíz blanco integral precocida ",
+    "calorias": "354.0",
+    "proteinas": "7.1",
+    "carbohidratos": "72.9",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 33,
+    "nombre": "Harina  de Maíz blanco precocida ",
+    "calorias": "354.0",
+    "proteinas": "7.2",
+    "carbohidratos": "77.7",
+    "grasas": "1.1"
+  },
+  {
+    "id_alimento": 34,
+    "nombre": "Harina de Maíz blanco precocida enriquecida",
+    "calorias": "354.0",
+    "proteinas": "7.2",
+    "carbohidratos": "77.7",
+    "grasas": "1.1"
+  },
+  {
+    "id_alimento": 35,
+    "nombre": "Hallaquita de Maíz blanco",
+    "calorias": "130.0",
+    "proteinas": "2.6",
+    "carbohidratos": "28.6",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 36,
+    "nombre": "Maíz blanco pilado",
+    "calorias": "339.0",
+    "proteinas": "7.8",
+    "carbohidratos": "73.6",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 37,
+    "nombre": "Harina de Maíz cariaco",
+    "calorias": "360.0",
+    "proteinas": "9.5",
+    "carbohidratos": "73.7",
+    "grasas": "4.1"
+  },
+  {
+    "id_alimento": 38,
+    "nombre": "Harina de Maíz tostado",
+    "calorias": "364.0",
+    "proteinas": "9.9",
+    "carbohidratos": "73.3",
+    "grasas": "4.6"
+  },
+  {
+    "id_alimento": 39,
+    "nombre": "Maicena enriquecida (almidón de maíz) ",
+    "calorias": "345.0",
+    "proteinas": "0.6",
+    "carbohidratos": "85.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 40,
+    "nombre": "Maíz tierno (jojoto)",
+    "calorias": "98.0",
+    "proteinas": "3.4",
+    "carbohidratos": "18.8",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 41,
+    "nombre": "Galletas de soda",
+    "calorias": "415.0",
+    "proteinas": "8.6",
+    "carbohidratos": "72.4",
+    "grasas": "10.2"
+  },
+  {
+    "id_alimento": 42,
+    "nombre": "Galletas dulces (tipo María)",
+    "calorias": "420.0",
+    "proteinas": "7.7",
+    "carbohidratos": "77.1",
+    "grasas": "9.2"
+  },
+  {
+    "id_alimento": 43,
+    "nombre": "Galletas integrales dulces (Honey Bran)",
+    "calorias": "392.0",
+    "proteinas": "8.0",
+    "carbohidratos": "66.8",
+    "grasas": "13.5"
+  },
+  {
+    "id_alimento": 44,
+    "nombre": "Galletas integrales saladas (Kracker Bran)",
+    "calorias": "412.0",
+    "proteinas": "9.7",
+    "carbohidratos": "65.0",
+    "grasas": "12.6"
+  },
+  {
+    "id_alimento": 45,
+    "nombre": "Saltines",
+    "calorias": "415.0",
+    "proteinas": "10.3",
+    "carbohidratos": "72.8",
+    "grasas": "9.4"
+  },
+  {
+    "id_alimento": 46,
+    "nombre": "Galletas simples surtidas",
+    "calorias": "438.0",
+    "proteinas": "6.0",
+    "carbohidratos": "75.0",
+    "grasas": "12.7"
+  },
+  {
+    "id_alimento": 47,
+    "nombre": "Pan blanco tipo sandwich ",
+    "calorias": "263.0",
+    "proteinas": "9.4",
+    "carbohidratos": "49.6",
+    "grasas": "3.0"
+  },
+  {
+    "id_alimento": 48,
+    "nombre": "Pan canilla ",
+    "calorias": "295.0",
+    "proteinas": "11.4",
+    "carbohidratos": "57.1",
+    "grasas": "2.3"
+  },
+  {
+    "id_alimento": 49,
+    "nombre": "Pan de centeno",
+    "calorias": "257.0",
+    "proteinas": "9.2",
+    "carbohidratos": "48.1",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 50,
+    "nombre": "Pan de glúten",
+    "calorias": "299.0",
+    "proteinas": "17.3",
+    "carbohidratos": "54.0",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 51,
+    "nombre": "Pan de Trigo integral",
+    "calorias": "241.0",
+    "proteinas": "9.0",
+    "carbohidratos": "45.4",
+    "grasas": "2.6"
+  },
+  {
+    "id_alimento": 52,
+    "nombre": "Pan de horno ",
+    "calorias": "416.0",
+    "proteinas": "5.1",
+    "carbohidratos": "67.4",
+    "grasas": "16.7"
+  },
+  {
+    "id_alimento": 53,
+    "nombre": "Panela de San Joaquín ",
+    "calorias": "370.0",
+    "proteinas": "6.3",
+    "carbohidratos": "74.8",
+    "grasas": "5.3"
+  },
+  {
+    "id_alimento": 54,
+    "nombre": "Pastas no enriquecidas",
+    "calorias": "363.0",
+    "proteinas": "15.6",
+    "carbohidratos": "71.9",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 55,
+    "nombre": "Pastas no enriquecidas cocidas",
+    "calorias": "113.0",
+    "proteinas": "4.3",
+    "carbohidratos": "22.6",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 56,
+    "nombre": "Pastas enriquecidas",
+    "calorias": "353.0",
+    "proteinas": "15.0",
+    "carbohidratos": "69.3",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 57,
+    "nombre": "Pastas enriquecidas cocidas",
+    "calorias": "124.0",
+    "proteinas": "4.6",
+    "carbohidratos": "24.9",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 58,
+    "nombre": "Pastas al Huevo",
+    "calorias": "372.0",
+    "proteinas": "15.6",
+    "carbohidratos": "72.4",
+    "grasas": "2.3"
+  },
+  {
+    "id_alimento": 59,
+    "nombre": "Pastas al Huevo cocidas",
+    "calorias": "126.0",
+    "proteinas": "6.2",
+    "carbohidratos": "23.2",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 60,
+    "nombre": "Pastas con espinacas",
+    "calorias": "365.0",
+    "proteinas": "14.8",
+    "carbohidratos": "72.8",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 61,
+    "nombre": "Pastas con espinacas cocidas",
+    "calorias": "108.0",
+    "proteinas": "5.3",
+    "carbohidratos": "27.1",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 62,
+    "nombre": "Sémola de Trigo Durum",
+    "calorias": "337.0",
+    "proteinas": "12.2",
+    "carbohidratos": "68.3",
+    "grasas": "1.7"
+  },
+  {
+    "id_alimento": 63,
+    "nombre": "Sémola granular de Trigo panadero",
+    "calorias": "337.0",
+    "proteinas": "11.5",
+    "carbohidratos": "70.8",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 64,
+    "nombre": "Afrecho de Trigo. Dark North Spring (DNS)",
+    "calorias": "170.0",
+    "proteinas": "16.3",
+    "carbohidratos": "16.1",
+    "grasas": "4.5"
+  },
+  {
+    "id_alimento": 65,
+    "nombre": "Afrecho de Trigo. Hard Amber Durum (HAD)",
+    "calorias": "172.0",
+    "proteinas": "13.3",
+    "carbohidratos": "17.9",
+    "grasas": "5.2"
+  },
+  {
+    "id_alimento": 66,
+    "nombre": "Afrecho de Trigo. Soft Red Wheat (SRW)",
+    "calorias": "193.0",
+    "proteinas": "14.2",
+    "carbohidratos": "24.1",
+    "grasas": "4.4"
+  },
+  {
+    "id_alimento": 67,
+    "nombre": "Arepa andina de Trigo",
+    "calorias": "303.0",
+    "proteinas": "10.9",
+    "carbohidratos": "59.7",
+    "grasas": "2.6"
+  },
+  {
+    "id_alimento": 68,
+    "nombre": "Trigo entero. variedad (DNS)",
+    "calorias": "313.0",
+    "proteinas": "13.3",
+    "carbohidratos": "59.9",
+    "grasas": "2.2"
+  },
+  {
+    "id_alimento": 69,
+    "nombre": "Trigo entero. variedad (HAD)",
+    "calorias": "316.0",
+    "proteinas": "12.9",
+    "carbohidratos": "59.7",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 70,
+    "nombre": "Trigo entero. variedad (SRW)",
+    "calorias": "313.0",
+    "proteinas": "10.4",
+    "carbohidratos": "63.2",
+    "grasas": "2.1"
+  },
+  {
+    "id_alimento": 71,
+    "nombre": "Germen tostado de Trigo",
+    "calorias": "381.0",
+    "proteinas": "30.5",
+    "carbohidratos": "38.5",
+    "grasas": "11.7"
+  },
+  {
+    "id_alimento": 72,
+    "nombre": "Harina panadera de Trigo. variedad (DNS)",
+    "calorias": "347.0",
+    "proteinas": "13.5",
+    "carbohidratos": "70.5",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 73,
+    "nombre": "Harina de Trigo panadera enriquecida ",
+    "calorias": "347.0",
+    "proteinas": "13.5",
+    "carbohidratos": "70.5",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 74,
+    "nombre": "Harina de Trigo. variedad (HAD)",
+    "calorias": "339.0",
+    "proteinas": "14.0",
+    "carbohidratos": "64.5",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 75,
+    "nombre": "Harina galletera de Trigo variedad (SRW)",
+    "calorias": "349.0",
+    "proteinas": "9.3",
+    "carbohidratos": "75.3",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 76,
+    "nombre": "Salvado de Trigo ",
+    "calorias": "347.0",
+    "proteinas": "14.5",
+    "carbohidratos": "72.6",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 77,
+    "nombre": "Gallina",
+    "calorias": "240.0",
+    "proteinas": "18.5",
+    "carbohidratos": "0.0",
+    "grasas": "18.4"
+  },
+  {
+    "id_alimento": 78,
+    "nombre": "Paloma",
+    "calorias": "273.0",
+    "proteinas": "18.6",
+    "carbohidratos": "0.0",
+    "grasas": "22.1"
+  },
+  {
+    "id_alimento": 79,
+    "nombre": "Pato",
+    "calorias": "321.0",
+    "proteinas": "16.0",
+    "carbohidratos": "0.0",
+    "grasas": "28.6"
+  },
+  {
+    "id_alimento": 80,
+    "nombre": "Pavo",
+    "calorias": "261.0",
+    "proteinas": "20.0",
+    "carbohidratos": "0.0",
+    "grasas": "20.1"
+  },
+  {
+    "id_alimento": 81,
+    "nombre": "Pechuga de pavo estándar (charcutería)",
+    "calorias": "76.0",
+    "proteinas": "15.2",
+    "carbohidratos": "2.2",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 82,
+    "nombre": "Pechuga de pavo superior (charcutería)",
+    "calorias": "103.0",
+    "proteinas": "22.6",
+    "carbohidratos": "0.1",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 83,
+    "nombre": "Alas de pollo. con piel",
+    "calorias": "217.0",
+    "proteinas": "18.3",
+    "carbohidratos": "0.0",
+    "grasas": "16.0"
+  },
+  {
+    "id_alimento": 84,
+    "nombre": "Alas de pollo. sin piel",
+    "calorias": "120.0",
+    "proteinas": "22.0",
+    "carbohidratos": "0.0",
+    "grasas": "3.5"
+  },
+  {
+    "id_alimento": 85,
+    "nombre": "Bologna de pollo",
+    "calorias": "254.0",
+    "proteinas": "13.2",
+    "carbohidratos": "9.1",
+    "grasas": "18.3"
+  },
+  {
+    "id_alimento": 86,
+    "nombre": "Pollo",
+    "calorias": "183.0",
+    "proteinas": "20.2",
+    "carbohidratos": "0.0",
+    "grasas": "11.4"
+  },
+  {
+    "id_alimento": 87,
+    "nombre": "Pollo enlatado",
+    "calorias": "168.0",
+    "proteinas": "9.6",
+    "carbohidratos": "14.0",
+    "grasas": "8.2"
+  },
+  {
+    "id_alimento": 88,
+    "nombre": "Pollo guisado enlatado",
+    "calorias": "141.0",
+    "proteinas": "10.3",
+    "carbohidratos": "10.7",
+    "grasas": "6.3"
+  },
+  {
+    "id_alimento": 89,
+    "nombre": " Hígado de pollo",
+    "calorias": "157.0",
+    "proteinas": "17.9",
+    "carbohidratos": "5.0",
+    "grasas": "7.3"
+  },
+  {
+    "id_alimento": 90,
+    "nombre": "Jamón de pollo. estándar",
+    "calorias": "95.0",
+    "proteinas": "12.4",
+    "carbohidratos": "2.7",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 91,
+    "nombre": "Jamón de pollo. superior",
+    "calorias": "118.0",
+    "proteinas": "16.2",
+    "carbohidratos": "1.5",
+    "grasas": "5.2"
+  },
+  {
+    "id_alimento": 92,
+    "nombre": "Molleja de pollo",
+    "calorias": "94.0",
+    "proteinas": "18.1",
+    "carbohidratos": "2.7",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 93,
+    "nombre": "Muslo de pollo. con piel",
+    "calorias": "182.0",
+    "proteinas": "18.2",
+    "carbohidratos": "0.0",
+    "grasas": "12.1"
+  },
+  {
+    "id_alimento": 94,
+    "nombre": "Muslo de pollo. sin piel",
+    "calorias": "115.0",
+    "proteinas": "20.1",
+    "carbohidratos": "0.0",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 95,
+    "nombre": "Pasta de pollo",
+    "calorias": "208.0",
+    "proteinas": "13.4",
+    "carbohidratos": "7.1",
+    "grasas": "14.0"
+  },
+  {
+    "id_alimento": 96,
+    "nombre": "Pechuga de pollo. cocida",
+    "calorias": "143.0",
+    "proteinas": "28.6",
+    "carbohidratos": "0.0",
+    "grasas": "3.2"
+  },
+  {
+    "id_alimento": 97,
+    "nombre": "Pechuga de pollo. estándar (charcutería)",
+    "calorias": "71.0",
+    "proteinas": "14.0",
+    "carbohidratos": "2.0",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 98,
+    "nombre": "Pechuga de pollo. superior (charcutería)",
+    "calorias": "92.0",
+    "proteinas": "19.9",
+    "carbohidratos": "1.4",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 99,
+    "nombre": "Pechuga de pollo. con piel",
+    "calorias": "167.0",
+    "proteinas": "20.9",
+    "carbohidratos": "0.0",
+    "grasas": "9.3"
+  },
+  {
+    "id_alimento": 100,
+    "nombre": "Pechuga de pollo. sin piel",
+    "calorias": "103.0",
+    "proteinas": "23.1",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 101,
+    "nombre": "Pierna de pollo. con piel",
+    "calorias": "156.0",
+    "proteinas": "19.3",
+    "carbohidratos": "0.0",
+    "grasas": "8.7"
+  },
+  {
+    "id_alimento": 102,
+    "nombre": "Pierna de pollo. sin piel",
+    "calorias": "113.0",
+    "proteinas": "20.6",
+    "carbohidratos": "0.0",
+    "grasas": "3.4"
+  },
+  {
+    "id_alimento": 103,
+    "nombre": "Salchicha de pollo. enlatada",
+    "calorias": "185.0",
+    "proteinas": "9.9",
+    "carbohidratos": "6.3",
+    "grasas": "13.3"
+  },
+  {
+    "id_alimento": 104,
+    "nombre": "Carne jamonizada de cerdo enlatada",
+    "calorias": "129.0",
+    "proteinas": "11.1",
+    "carbohidratos": "8.3",
+    "grasas": "5.7"
+  },
+  {
+    "id_alimento": 105,
+    "nombre": "Costilla de cerdo",
+    "calorias": "295.0",
+    "proteinas": "16.5",
+    "carbohidratos": "0.0",
+    "grasas": "25.4"
+  },
+  {
+    "id_alimento": 106,
+    "nombre": "Chuleta de cerdo",
+    "calorias": "250.0",
+    "proteinas": "18.3",
+    "carbohidratos": "0.0",
+    "grasas": "19.6"
+  },
+  {
+    "id_alimento": 107,
+    "nombre": "Chuleta de cerdo. magra (sin grasa visible)",
+    "calorias": "111.0",
+    "proteinas": "22.9",
+    "carbohidratos": "0.0",
+    "grasas": "2.2"
+  },
+  {
+    "id_alimento": 108,
+    "nombre": "Chuleta de cerdo. ahumada",
+    "calorias": "201.0",
+    "proteinas": "25.2",
+    "carbohidratos": "0.0",
+    "grasas": "11.1"
+  },
+  {
+    "id_alimento": 109,
+    "nombre": "Lomo de cerdo",
+    "calorias": "192.0",
+    "proteinas": "19.5",
+    "carbohidratos": "0.0",
+    "grasas": "12.7"
+  },
+  {
+    "id_alimento": 110,
+    "nombre": "Lomo de cerdo. magro (sin grasa visible)",
+    "calorias": "121.0",
+    "proteinas": "24.4",
+    "carbohidratos": "0.0",
+    "grasas": "2.6"
+  },
+  {
+    "id_alimento": 111,
+    "nombre": "Paleta de cerdo",
+    "calorias": "219.0",
+    "proteinas": "18.0",
+    "carbohidratos": "0.0",
+    "grasas": "16.3"
+  },
+  {
+    "id_alimento": 112,
+    "nombre": "Paleta de cerdo. magra (sin grasa visible)",
+    "calorias": "102.0",
+    "proteinas": "21.1",
+    "carbohidratos": "0.0",
+    "grasas": "2.0"
+  },
+  {
+    "id_alimento": 113,
+    "nombre": "Pernil de cerdo",
+    "calorias": "158.0",
+    "proteinas": "19.2",
+    "carbohidratos": "0.0",
+    "grasas": "9.0"
+  },
+  {
+    "id_alimento": 114,
+    "nombre": "Pernil de cerdo. magro (sin grasa visible)",
+    "calorias": "120.0",
+    "proteinas": "21.4",
+    "carbohidratos": "0.0",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 115,
+    "nombre": "Chicharrón de cerdo ",
+    "calorias": "646.0",
+    "proteinas": "20.9",
+    "carbohidratos": "0.0",
+    "grasas": "62.5"
+  },
+  {
+    "id_alimento": 116,
+    "nombre": "Higado de cerdo",
+    "calorias": "134.0",
+    "proteinas": "20.0",
+    "carbohidratos": "3.0",
+    "grasas": "4.7"
+  },
+  {
+    "id_alimento": 117,
+    "nombre": "Jamón  de cerdo ahumado. semi gordo. con hueso",
+    "calorias": "360.0",
+    "proteinas": "17.7",
+    "carbohidratos": "0.7",
+    "grasas": "31.8"
+  },
+  {
+    "id_alimento": 118,
+    "nombre": "Jamón  de cerdo cocido. estándar",
+    "calorias": "94.0",
+    "proteinas": "13.2",
+    "carbohidratos": "1.6",
+    "grasas": "3.9"
+  },
+  {
+    "id_alimento": 119,
+    "nombre": "Jamón de cerdo cocido. superior",
+    "calorias": "106.0",
+    "proteinas": "16.6",
+    "carbohidratos": "0.0",
+    "grasas": "4.4"
+  },
+  {
+    "id_alimento": 120,
+    "nombre": "Jamón de cerdo endiablado enlatado",
+    "calorias": "301.0",
+    "proteinas": "12.9",
+    "carbohidratos": "2.3",
+    "grasas": "26.7"
+  },
+  {
+    "id_alimento": 121,
+    "nombre": "Jamón de espalda",
+    "calorias": "116.0",
+    "proteinas": "13.1",
+    "carbohidratos": "2.1",
+    "grasas": "6.1"
+  },
+  {
+    "id_alimento": 122,
+    "nombre": "Jamón serrano. sin hueso. y sin",
+    "calorias": "175.0",
+    "proteinas": "35.4",
+    "carbohidratos": "0.6",
+    "grasas": "3.4"
+  },
+  {
+    "id_alimento": 123,
+    "nombre": "Pasta endiablada enlatada",
+    "calorias": "288.0",
+    "proteinas": "13.5",
+    "carbohidratos": "3.7",
+    "grasas": "24.3"
+  },
+  {
+    "id_alimento": 124,
+    "nombre": "Salchicha de cerdo enlatada",
+    "calorias": "119.0",
+    "proteinas": "6.5",
+    "carbohidratos": "7.4",
+    "grasas": "7.0"
+  },
+  {
+    "id_alimento": 125,
+    "nombre": "Salchicha de cerdo y res.",
+    "calorias": "202.0",
+    "proteinas": "7.6",
+    "carbohidratos": "7.0",
+    "grasas": "16.0"
+  },
+  {
+    "id_alimento": 126,
+    "nombre": "Tocineta cruda",
+    "calorias": "628.0",
+    "proteinas": "9.1",
+    "carbohidratos": "1.6",
+    "grasas": "65.0"
+  },
+  {
+    "id_alimento": 127,
+    "nombre": "Tocineta  frita",
+    "calorias": "599.0",
+    "proteinas": "25.0",
+    "carbohidratos": "1.0",
+    "grasas": "55.0"
+  },
+  {
+    "id_alimento": 128,
+    "nombre": "Conejo",
+    "calorias": "151.0",
+    "proteinas": "20.3",
+    "carbohidratos": "0.0",
+    "grasas": "7.7"
+  },
+  {
+    "id_alimento": 129,
+    "nombre": "Cordero",
+    "calorias": "247.0",
+    "proteinas": "18.2",
+    "carbohidratos": "0.0",
+    "grasas": "19.4"
+  },
+  {
+    "id_alimento": 130,
+    "nombre": "Chigüire",
+    "calorias": "80.0",
+    "proteinas": "18.4",
+    "carbohidratos": "0.0",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 131,
+    "nombre": "Chigüire . carne seca de",
+    "calorias": "153.0",
+    "proteinas": "33.9",
+    "carbohidratos": "2.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 132,
+    "nombre": "Chivo",
+    "calorias": "159.0",
+    "proteinas": "18.7",
+    "carbohidratos": "0.0",
+    "grasas": "9.4"
+  },
+  {
+    "id_alimento": 133,
+    "nombre": "Iguana",
+    "calorias": "106.0",
+    "proteinas": "24.4",
+    "carbohidratos": "0.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 134,
+    "nombre": "Ternera",
+    "calorias": "122.0",
+    "proteinas": "19.3",
+    "carbohidratos": "0.0",
+    "grasas": "5.0"
+  },
+  {
+    "id_alimento": 135,
+    "nombre": "Venado",
+    "calorias": "134.0",
+    "proteinas": "31.4",
+    "carbohidratos": "0.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 136,
+    "nombre": "bologna",
+    "calorias": "207.0",
+    "proteinas": "15.6",
+    "carbohidratos": "2.2",
+    "grasas": "15.1"
+  },
+  {
+    "id_alimento": 137,
+    "nombre": "Chorizo",
+    "calorias": "273.0",
+    "proteinas": "15.8",
+    "carbohidratos": "1.1",
+    "grasas": "22.8"
+  },
+  {
+    "id_alimento": 138,
+    "nombre": "Chorizo carupanero",
+    "calorias": "370.0",
+    "proteinas": "16.6",
+    "carbohidratos": "0.4",
+    "grasas": "33.5"
+  },
+  {
+    "id_alimento": 139,
+    "nombre": "Chorizo cocido",
+    "calorias": "367.0",
+    "proteinas": "19.5",
+    "carbohidratos": "3.4",
+    "grasas": "30.6"
+  },
+  {
+    "id_alimento": 140,
+    "nombre": "Chorizo español",
+    "calorias": "379.0",
+    "proteinas": "25.7",
+    "carbohidratos": "1.2",
+    "grasas": "21.9"
+  },
+  {
+    "id_alimento": 141,
+    "nombre": "Chorizo húngaro",
+    "calorias": "305.0",
+    "proteinas": "19.5",
+    "carbohidratos": "3.4",
+    "grasas": "23.7"
+  },
+  {
+    "id_alimento": 142,
+    "nombre": "Chorizo frankfurter. cocido",
+    "calorias": "244.0",
+    "proteinas": "14.0",
+    "carbohidratos": "2.0",
+    "grasas": "20.0"
+  },
+  {
+    "id_alimento": 143,
+    "nombre": "Morcilla alemana (23)",
+    "calorias": "292.0",
+    "proteinas": "18.6",
+    "carbohidratos": "3.2",
+    "grasas": "22.7"
+  },
+  {
+    "id_alimento": 144,
+    "nombre": "Morcilla con arroz y cebolla (23)",
+    "calorias": "280.0",
+    "proteinas": "9.8",
+    "carbohidratos": "10.2",
+    "grasas": "22.2"
+  },
+  {
+    "id_alimento": 145,
+    "nombre": "Morcilla condimentada (23)",
+    "calorias": "197.0",
+    "proteinas": "15.0",
+    "carbohidratos": "6.0",
+    "grasas": "12.6"
+  },
+  {
+    "id_alimento": 146,
+    "nombre": "Mortadela económica",
+    "calorias": "324.0",
+    "proteinas": "13.0",
+    "carbohidratos": "6.7",
+    "grasas": "27.2"
+  },
+  {
+    "id_alimento": 147,
+    "nombre": "Mortadela especial",
+    "calorias": "237.0",
+    "proteinas": "15.6",
+    "carbohidratos": "5.7",
+    "grasas": "16.9"
+  },
+  {
+    "id_alimento": 148,
+    "nombre": "Mortadela exa",
+    "calorias": "312.0",
+    "proteinas": "12.8",
+    "carbohidratos": "4.1",
+    "grasas": "27.1"
+  },
+  {
+    "id_alimento": 149,
+    "nombre": "Pasta de hígado (liverwurst)",
+    "calorias": "268.0",
+    "proteinas": "16.8",
+    "carbohidratos": "1.7",
+    "grasas": "21.6"
+  },
+  {
+    "id_alimento": 150,
+    "nombre": "Salchicha de cerdo",
+    "calorias": "448.0",
+    "proteinas": "10.8",
+    "carbohidratos": "0.4",
+    "grasas": "44.8"
+  },
+  {
+    "id_alimento": 151,
+    "nombre": "Salchicha (perro caliente)",
+    "calorias": "206.0",
+    "proteinas": "13.8",
+    "carbohidratos": "2.2",
+    "grasas": "15.5"
+  },
+  {
+    "id_alimento": 152,
+    "nombre": "Salchicha (Viena)",
+    "calorias": "211.0",
+    "proteinas": "15.8",
+    "carbohidratos": "0.0",
+    "grasas": "16.4"
+  },
+  {
+    "id_alimento": 153,
+    "nombre": "Salchichón",
+    "calorias": "460.0",
+    "proteinas": "27.3",
+    "carbohidratos": "1.8",
+    "grasas": "38.2"
+  },
+  {
+    "id_alimento": 154,
+    "nombre": "Carne molida",
+    "calorias": "201.0",
+    "proteinas": "18.2",
+    "carbohidratos": "0.0",
+    "grasas": "14.2"
+  },
+  {
+    "id_alimento": 155,
+    "nombre": "Chocozuela",
+    "calorias": "100.0",
+    "proteinas": "22.3",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 156,
+    "nombre": "Falda",
+    "calorias": "91.0",
+    "proteinas": "20.6",
+    "carbohidratos": "0.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 157,
+    "nombre": "Ganso",
+    "calorias": "91.0",
+    "proteinas": "21.3",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 158,
+    "nombre": "Lagarto",
+    "calorias": "84.0",
+    "proteinas": "20.5",
+    "carbohidratos": "0.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 159,
+    "nombre": "Lomito",
+    "calorias": "91.0",
+    "proteinas": "18.7",
+    "carbohidratos": "0.0",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 160,
+    "nombre": "Muchacho redondo",
+    "calorias": "98.0",
+    "proteinas": "21.8",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 161,
+    "nombre": "Papelón ",
+    "calorias": "89.0",
+    "proteinas": "19.8",
+    "carbohidratos": "0.0",
+    "grasas": "1.1"
+  },
+  {
+    "id_alimento": 162,
+    "nombre": "Pollo de res",
+    "calorias": "89.0",
+    "proteinas": "21.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 163,
+    "nombre": "Pulpa negra ",
+    "calorias": "104.0",
+    "proteinas": "21.6",
+    "carbohidratos": "0.0",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 164,
+    "nombre": "Punta asera",
+    "calorias": "111.0",
+    "proteinas": "21.7",
+    "carbohidratos": "0.0",
+    "grasas": "2.7"
+  },
+  {
+    "id_alimento": 165,
+    "nombre": "Solomo ",
+    "calorias": "98.0",
+    "proteinas": "23.2",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 166,
+    "nombre": "Carne de almuerzo enlatada",
+    "calorias": "220.0",
+    "proteinas": "11.5",
+    "carbohidratos": "10.2",
+    "grasas": "14.8"
+  },
+  {
+    "id_alimento": 167,
+    "nombre": "Carne de almuerzo. de res y cerdo enlatada",
+    "calorias": "188.0",
+    "proteinas": "10.6",
+    "carbohidratos": "12.7",
+    "grasas": "10.5"
+  },
+  {
+    "id_alimento": 168,
+    "nombre": "Carne de buey enlatada",
+    "calorias": "158.0",
+    "proteinas": "11.0",
+    "carbohidratos": "11.5",
+    "grasas": "7.6"
+  },
+  {
+    "id_alimento": 169,
+    "nombre": "Carne mechada enlatada",
+    "calorias": "162.0",
+    "proteinas": "13.2",
+    "carbohidratos": "6.9",
+    "grasas": "9.1"
+  },
+  {
+    "id_alimento": 170,
+    "nombre": "Carne mechada con soya enlatada",
+    "calorias": "158.0",
+    "proteinas": "13.4",
+    "carbohidratos": "4.7",
+    "grasas": "9.5"
+  },
+  {
+    "id_alimento": 171,
+    "nombre": "Carne mechada ",
+    "calorias": "137.0",
+    "proteinas": "14.6",
+    "carbohidratos": "5.8",
+    "grasas": "7.2"
+  },
+  {
+    "id_alimento": 172,
+    "nombre": "Salchicha tipo frankfurter enlatada",
+    "calorias": "230.0",
+    "proteinas": "9.3",
+    "carbohidratos": "4.6",
+    "grasas": "19.4"
+  },
+  {
+    "id_alimento": 173,
+    "nombre": "Corazón ",
+    "calorias": "113.0",
+    "proteinas": "16.8",
+    "carbohidratos": "0.5",
+    "grasas": "4.9"
+  },
+  {
+    "id_alimento": 174,
+    "nombre": "Hígado ",
+    "calorias": "128.0",
+    "proteinas": "19.3",
+    "carbohidratos": "4.1",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 175,
+    "nombre": "Lengua ",
+    "calorias": "193.0",
+    "proteinas": "18.4",
+    "carbohidratos": "2.1",
+    "grasas": "12.3"
+  },
+  {
+    "id_alimento": 176,
+    "nombre": "Panza  ",
+    "calorias": "104.0",
+    "proteinas": "15.0",
+    "carbohidratos": "2.4",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 177,
+    "nombre": "Riñón ",
+    "calorias": "129.0",
+    "proteinas": "15.0",
+    "carbohidratos": "0.9",
+    "grasas": "7.3"
+  },
+  {
+    "id_alimento": 178,
+    "nombre": "Sesos ",
+    "calorias": "129.0",
+    "proteinas": "10.4",
+    "carbohidratos": "0.2",
+    "grasas": "9.6"
+  },
+  {
+    "id_alimento": 179,
+    "nombre": "Ubre ",
+    "calorias": "195.0",
+    "proteinas": "15.4",
+    "carbohidratos": "7.0",
+    "grasas": "11.7"
+  },
+  {
+    "id_alimento": 180,
+    "nombre": "Anchova ",
+    "calorias": "134.0",
+    "proteinas": "21.0",
+    "carbohidratos": "0.0",
+    "grasas": "5.5"
+  },
+  {
+    "id_alimento": 181,
+    "nombre": "Anchova  frita",
+    "calorias": "192.0",
+    "proteinas": "25.0",
+    "carbohidratos": "0.0",
+    "grasas": "10.2"
+  },
+  {
+    "id_alimento": 182,
+    "nombre": "Anchova  sancochada",
+    "calorias": "171.0",
+    "proteinas": "23.4",
+    "carbohidratos": "0.0",
+    "grasas": "8.6"
+  },
+  {
+    "id_alimento": 183,
+    "nombre": "Arenque  ahumado",
+    "calorias": "293.0",
+    "proteinas": "24.3",
+    "carbohidratos": "0.0",
+    "grasas": "21.8"
+  },
+  {
+    "id_alimento": 184,
+    "nombre": "Atún ",
+    "calorias": "111.0",
+    "proteinas": "26.1",
+    "carbohidratos": "0.0",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 185,
+    "nombre": "Atún  al natural enlatado. escurrido",
+    "calorias": "96.0",
+    "proteinas": "23.2",
+    "carbohidratos": "0.0",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 186,
+    "nombre": "Atún  en aceite enlatado. escurrido",
+    "calorias": "167.0",
+    "proteinas": "29.0",
+    "carbohidratos": "0.0",
+    "grasas": "5.7"
+  },
+  {
+    "id_alimento": 187,
+    "nombre": "Bacalao ",
+    "calorias": "73.0",
+    "proteinas": "17.5",
+    "carbohidratos": "0.0",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 188,
+    "nombre": "Bacalao  seco salado",
+    "calorias": "341.0",
+    "proteinas": "78.9",
+    "carbohidratos": "0.0",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 189,
+    "nombre": "Bonito ",
+    "calorias": "134.0",
+    "proteinas": "24.4",
+    "carbohidratos": "0.0",
+    "grasas": "4.0"
+  },
+  {
+    "id_alimento": 190,
+    "nombre": "Bonito  frito",
+    "calorias": "224.0",
+    "proteinas": "31.8",
+    "carbohidratos": "0.0",
+    "grasas": "10.8"
+  },
+  {
+    "id_alimento": 191,
+    "nombre": "Bonito  sancochado",
+    "calorias": "163.0",
+    "proteinas": "29.0",
+    "carbohidratos": "0.0",
+    "grasas": "5.2"
+  },
+  {
+    "id_alimento": 192,
+    "nombre": "Buco  o curito cocido",
+    "calorias": "141.0",
+    "proteinas": "24.1",
+    "carbohidratos": "0.0",
+    "grasas": "4.9"
+  },
+  {
+    "id_alimento": 193,
+    "nombre": "Caballa ",
+    "calorias": "159.0",
+    "proteinas": "21.3",
+    "carbohidratos": "0.0",
+    "grasas": "8.2"
+  },
+  {
+    "id_alimento": 194,
+    "nombre": "Cachama ",
+    "calorias": "82.0",
+    "proteinas": "18.7",
+    "carbohidratos": "0.0",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 195,
+    "nombre": "Cachicato ",
+    "calorias": "90.0",
+    "proteinas": "21.2",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 196,
+    "nombre": "Carite ",
+    "calorias": "90.0",
+    "proteinas": "21.1",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 197,
+    "nombre": "Carpa ",
+    "calorias": "92.0",
+    "proteinas": "16.0",
+    "carbohidratos": "0.0",
+    "grasas": "3.1"
+  },
+  {
+    "id_alimento": 198,
+    "nombre": "Cazón ",
+    "calorias": "103.0",
+    "proteinas": "25.4",
+    "carbohidratos": "0.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 199,
+    "nombre": "Coporo ",
+    "calorias": "126.0",
+    "proteinas": "25.1",
+    "carbohidratos": "0.0",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 200,
+    "nombre": "Corocoro ",
+    "calorias": "93.0",
+    "proteinas": "19.7",
+    "carbohidratos": "0.0",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 201,
+    "nombre": "Corocoro   frito",
+    "calorias": "163.0",
+    "proteinas": "25.1",
+    "carbohidratos": "0.0",
+    "grasas": "7.0"
+  },
+  {
+    "id_alimento": 202,
+    "nombre": "Corocoro  sancochado",
+    "calorias": "110.0",
+    "proteinas": "23.1",
+    "carbohidratos": "0.0",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 203,
+    "nombre": "Corvina ",
+    "calorias": "94.0",
+    "proteinas": "20.8",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 204,
+    "nombre": "Chicharro ",
+    "calorias": "102.0",
+    "proteinas": "21.3",
+    "carbohidratos": "0.0",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 205,
+    "nombre": "Chicharro  frito",
+    "calorias": "249.0",
+    "proteinas": "33.0",
+    "carbohidratos": "0.0",
+    "grasas": "13.0"
+  },
+  {
+    "id_alimento": 206,
+    "nombre": "Chicharro  sancochado",
+    "calorias": "116.0",
+    "proteinas": "25.4",
+    "carbohidratos": "0.0",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 207,
+    "nombre": "Jurel ",
+    "calorias": "112.0",
+    "proteinas": "22.0",
+    "carbohidratos": "0.0",
+    "grasas": "2.7"
+  },
+  {
+    "id_alimento": 208,
+    "nombre": "Jurel  frito",
+    "calorias": "205.0",
+    "proteinas": "33.1",
+    "carbohidratos": "0.0",
+    "grasas": "8.1"
+  },
+  {
+    "id_alimento": 209,
+    "nombre": "Jurel  sancochado",
+    "calorias": "133.0",
+    "proteinas": "28.7",
+    "carbohidratos": "0.0",
+    "grasas": "2.0"
+  },
+  {
+    "id_alimento": 210,
+    "nombre": "Lamparosa ",
+    "calorias": "97.0",
+    "proteinas": "20.2",
+    "carbohidratos": "0.0",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 211,
+    "nombre": "Lamparosa  frita",
+    "calorias": "218.0",
+    "proteinas": "29.6",
+    "carbohidratos": "0.0",
+    "grasas": "11.1"
+  },
+  {
+    "id_alimento": 212,
+    "nombre": "Lamparosa  sancochada",
+    "calorias": "104.0",
+    "proteinas": "22.7",
+    "carbohidratos": "0.0",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 213,
+    "nombre": "Lebranche ",
+    "calorias": "142.0",
+    "proteinas": "19.3",
+    "carbohidratos": "0.0",
+    "grasas": "7.2"
+  },
+  {
+    "id_alimento": 214,
+    "nombre": "Lebranche  frito",
+    "calorias": "188.0",
+    "proteinas": "25.5",
+    "carbohidratos": "0.0",
+    "grasas": "9.6"
+  },
+  {
+    "id_alimento": 215,
+    "nombre": "Lebranche sancochado",
+    "calorias": "138.0",
+    "proteinas": "20.2",
+    "carbohidratos": "0.0",
+    "grasas": "6.4"
+  },
+  {
+    "id_alimento": 216,
+    "nombre": "Lenguado  ",
+    "calorias": "85.0",
+    "proteinas": "20.3",
+    "carbohidratos": "0.0",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 217,
+    "nombre": "loro",
+    "calorias": "81.0",
+    "proteinas": "18.9",
+    "carbohidratos": "0.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 218,
+    "nombre": "Merluza",
+    "calorias": "91.0",
+    "proteinas": "20.5",
+    "carbohidratos": "0.0",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 219,
+    "nombre": "Mero ",
+    "calorias": "89.0",
+    "proteinas": "19.4",
+    "carbohidratos": "0.0",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 220,
+    "nombre": "Mojarra ",
+    "calorias": "85.0",
+    "proteinas": "18.6",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 221,
+    "nombre": "Pámpano ",
+    "calorias": "92.0",
+    "proteinas": "19.9",
+    "carbohidratos": "0.0",
+    "grasas": "1.4"
+  },
+  {
+    "id_alimento": 222,
+    "nombre": "Pargo ",
+    "calorias": "77.0",
+    "proteinas": "18.2",
+    "carbohidratos": "0.0",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 223,
+    "nombre": "Perla  de mar",
+    "calorias": "74.0",
+    "proteinas": "17.7",
+    "carbohidratos": "0.0",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 224,
+    "nombre": "Picúa ",
+    "calorias": "94.0",
+    "proteinas": "20.9",
+    "carbohidratos": "0.0",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 225,
+    "nombre": "Rayado ",
+    "calorias": "84.0",
+    "proteinas": "19.2",
+    "carbohidratos": "0.0",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 226,
+    "nombre": "Rayado  sancochado",
+    "calorias": "106.0",
+    "proteinas": "24.8",
+    "carbohidratos": "0.0",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 227,
+    "nombre": "Róbalo ",
+    "calorias": "102.0",
+    "proteinas": "21.1",
+    "carbohidratos": "0.0",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 228,
+    "nombre": "Róbalo  frito",
+    "calorias": "156.0",
+    "proteinas": "28.7",
+    "carbohidratos": "0.0",
+    "grasas": "4.6"
+  },
+  {
+    "id_alimento": 229,
+    "nombre": "Róbalo  sancochado",
+    "calorias": "107.0",
+    "proteinas": "23.2",
+    "carbohidratos": "0.0",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 230,
+    "nombre": "Roncador ",
+    "calorias": "82.0",
+    "proteinas": "19.3",
+    "carbohidratos": "0.0",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 231,
+    "nombre": "Salmón  enlatado",
+    "calorias": "145.0",
+    "proteinas": "19.7",
+    "carbohidratos": "0.0",
+    "grasas": "7.3"
+  },
+  {
+    "id_alimento": 232,
+    "nombre": "Sardinas ",
+    "calorias": "145.0",
+    "proteinas": "20.6",
+    "carbohidratos": "0.0",
+    "grasas": "7.0"
+  },
+  {
+    "id_alimento": 233,
+    "nombre": "Sardinas  enlatadas (parte sólida)",
+    "calorias": "183.0",
+    "proteinas": "24.9",
+    "carbohidratos": "0.0",
+    "grasas": "9.3"
+  },
+  {
+    "id_alimento": 234,
+    "nombre": "Sierra ",
+    "calorias": "119.0",
+    "proteinas": "23.0",
+    "carbohidratos": "0.0",
+    "grasas": "3.0"
+  },
+  {
+    "id_alimento": 235,
+    "nombre": "Sierra  frita",
+    "calorias": "189.0",
+    "proteinas": "30.0",
+    "carbohidratos": "0.0",
+    "grasas": "7.7"
+  },
+  {
+    "id_alimento": 236,
+    "nombre": "Sierra  sancochada",
+    "calorias": "131.0",
+    "proteinas": "25.3",
+    "carbohidratos": "0.0",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 237,
+    "nombre": "Tajalí ",
+    "calorias": "98.0",
+    "proteinas": "19.3",
+    "carbohidratos": "0.0",
+    "grasas": "2.3"
+  },
+  {
+    "id_alimento": 238,
+    "nombre": "Tajalí  frito",
+    "calorias": "212.0",
+    "proteinas": "29.0",
+    "carbohidratos": "0.0",
+    "grasas": "10.7"
+  },
+  {
+    "id_alimento": 239,
+    "nombre": "Tajalí  sancochado",
+    "calorias": "111.0",
+    "proteinas": "22.9",
+    "carbohidratos": "0.0",
+    "grasas": "2.2"
+  },
+  {
+    "id_alimento": 240,
+    "nombre": "Trucha  arcoiris",
+    "calorias": "103.0",
+    "proteinas": "19.5",
+    "carbohidratos": "0.0",
+    "grasas": "2.7"
+  },
+  {
+    "id_alimento": 241,
+    "nombre": "Trucha  de mar",
+    "calorias": "74.0",
+    "proteinas": "17.9",
+    "carbohidratos": "0.0",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 242,
+    "nombre": "Almejas ",
+    "calorias": "73.0",
+    "proteinas": "12.6",
+    "carbohidratos": "2.0",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 243,
+    "nombre": "Calamares ",
+    "calorias": "80.0",
+    "proteinas": "16.8",
+    "carbohidratos": "0.0",
+    "grasas": "1.4"
+  },
+  {
+    "id_alimento": 244,
+    "nombre": "Camarones ",
+    "calorias": "91.0",
+    "proteinas": "19.7",
+    "carbohidratos": "0.0",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 245,
+    "nombre": "Cangrejos  enlatados",
+    "calorias": "97.0",
+    "proteinas": "17.4",
+    "carbohidratos": "1.1",
+    "grasas": "2.5"
+  },
+  {
+    "id_alimento": 246,
+    "nombre": "chipi-chipi  cocidos",
+    "calorias": "81.0",
+    "proteinas": "17.4",
+    "carbohidratos": "1.0",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 247,
+    "nombre": "Guacuco ",
+    "calorias": "121.0",
+    "proteinas": "18.3",
+    "carbohidratos": "1.7",
+    "grasas": "4.6"
+  },
+  {
+    "id_alimento": 248,
+    "nombre": "Langosta ",
+    "calorias": "84.0",
+    "proteinas": "16.2",
+    "carbohidratos": "0.5",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 249,
+    "nombre": "Langostinos ",
+    "calorias": "89.0",
+    "proteinas": "20.3",
+    "carbohidratos": "0.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 250,
+    "nombre": "Mejillones  enlatados",
+    "calorias": "104.0",
+    "proteinas": "17.2",
+    "carbohidratos": "1.3",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 251,
+    "nombre": "Osas ",
+    "calorias": "42.0",
+    "proteinas": "5.8",
+    "carbohidratos": "3.5",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 252,
+    "nombre": "Pepitonas  enlatadas",
+    "calorias": "88.0",
+    "proteinas": "16.8",
+    "carbohidratos": "2.4",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 253,
+    "nombre": "Pulpo ",
+    "calorias": "64.0",
+    "proteinas": "14.2",
+    "carbohidratos": "0.4",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 254,
+    "nombre": "Huevo de  Codorniz. ",
+    "calorias": "179.0",
+    "proteinas": "11.6",
+    "carbohidratos": "3.6",
+    "grasas": "13.1"
+  },
+  {
+    "id_alimento": 255,
+    "nombre": "Huevo entero de gallina",
+    "calorias": "156.0",
+    "proteinas": "12.4",
+    "carbohidratos": "1.5",
+    "grasas": "11.1"
+  },
+  {
+    "id_alimento": 256,
+    "nombre": "Clara de Huevo de gallina ",
+    "calorias": "46.0",
+    "proteinas": "10.8",
+    "carbohidratos": "0.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 257,
+    "nombre": "Yema de Huevo de gallina",
+    "calorias": "354.0",
+    "proteinas": "16.1",
+    "carbohidratos": "1.2",
+    "grasas": "31.6"
+  },
+  {
+    "id_alimento": 258,
+    "nombre": "Huevo en polvo",
+    "calorias": "576.0",
+    "proteinas": "46.8",
+    "carbohidratos": "2.6",
+    "grasas": "42.0"
+  },
+  {
+    "id_alimento": 259,
+    "nombre": "Huevo de Iguana",
+    "calorias": "166.0",
+    "proteinas": "16.2",
+    "carbohidratos": "2.0",
+    "grasas": "10.4"
+  },
+  {
+    "id_alimento": 260,
+    "nombre": "Huevo de Huevo de Lisa",
+    "calorias": "367.0",
+    "proteinas": "39.9",
+    "carbohidratos": "9.0",
+    "grasas": "19.0"
+  },
+  {
+    "id_alimento": 261,
+    "nombre": "Huevo de  Tortuga",
+    "calorias": "111.0",
+    "proteinas": "12.6",
+    "carbohidratos": "0.9",
+    "grasas": "6.3"
+  },
+  {
+    "id_alimento": 262,
+    "nombre": "Leche de burra",
+    "calorias": "44.0",
+    "proteinas": "1.7",
+    "carbohidratos": "6.5",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 263,
+    "nombre": "Leche  de cabra",
+    "calorias": "75.0",
+    "proteinas": "4.0",
+    "carbohidratos": "4.0",
+    "grasas": "4.8"
+  },
+  {
+    "id_alimento": 264,
+    "nombre": "Leche humana",
+    "calorias": "78.0",
+    "proteinas": "1.1",
+    "carbohidratos": "9.5",
+    "grasas": "4.0"
+  },
+  {
+    "id_alimento": 265,
+    "nombre": "Leche  de soya",
+    "calorias": "36.0",
+    "proteinas": "3.4",
+    "carbohidratos": "2.1",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 266,
+    "nombre": "Leche  líquida completa",
+    "calorias": "63.0",
+    "proteinas": "3.5",
+    "carbohidratos": "4.7",
+    "grasas": "3.4"
+  },
+  {
+    "id_alimento": 267,
+    "nombre": "Leche  líquida descremada",
+    "calorias": "43.0",
+    "proteinas": "3.6",
+    "carbohidratos": "5.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 268,
+    "nombre": "Leche  en polvo completa. enriquecida",
+    "calorias": "492.0",
+    "proteinas": "25.8",
+    "carbohidratos": "38.0",
+    "grasas": "26.7"
+  },
+  {
+    "id_alimento": 269,
+    "nombre": "Leche  en polvo descremada",
+    "calorias": "356.0",
+    "proteinas": "35.0",
+    "carbohidratos": "51.8",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 270,
+    "nombre": "Leche condensada",
+    "calorias": "324.0",
+    "proteinas": "8.0",
+    "carbohidratos": "53.5",
+    "grasas": "8.7"
+  },
+  {
+    "id_alimento": 271,
+    "nombre": "Leche  Evaporada",
+    "calorias": "138.0",
+    "proteinas": "6.8",
+    "carbohidratos": "9.8",
+    "grasas": "7.9"
+  },
+  {
+    "id_alimento": 272,
+    "nombre": "Crema de leche pasteurizada",
+    "calorias": "382.0",
+    "proteinas": "2.0",
+    "carbohidratos": "2.9",
+    "grasas": "40.3"
+  },
+  {
+    "id_alimento": 273,
+    "nombre": "Cuajada",
+    "calorias": "257.0",
+    "proteinas": "15.5",
+    "carbohidratos": "6.2",
+    "grasas": "18.9"
+  },
+  {
+    "id_alimento": 274,
+    "nombre": "Mantequilla",
+    "calorias": "731.0",
+    "proteinas": "0.6",
+    "carbohidratos": "0.0",
+    "grasas": "81.0"
+  },
+  {
+    "id_alimento": 275,
+    "nombre": "Nata",
+    "calorias": "326.0",
+    "proteinas": "2.5",
+    "carbohidratos": "7.1",
+    "grasas": "32.0"
+  },
+  {
+    "id_alimento": 276,
+    "nombre": "Suero de Leche criollo pasteurizado",
+    "calorias": "63.0",
+    "proteinas": "3.1",
+    "carbohidratos": "5.3",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 277,
+    "nombre": "Queso amarillo fundido. tipo americano",
+    "calorias": "376.0",
+    "proteinas": "22.4",
+    "carbohidratos": "1.3",
+    "grasas": "31.2"
+  },
+  {
+    "id_alimento": 278,
+    "nombre": "Queso  amarillo fundido para untar",
+    "calorias": "277.0",
+    "proteinas": "12.7",
+    "carbohidratos": "7.2",
+    "grasas": "21.9"
+  },
+  {
+    "id_alimento": 279,
+    "nombre": "Queso amarillo holandés",
+    "calorias": "398.0",
+    "proteinas": "26.0",
+    "carbohidratos": "1.3",
+    "grasas": "32.1"
+  },
+  {
+    "id_alimento": 280,
+    "nombre": "Queso  azul da nés",
+    "calorias": "337.0",
+    "proteinas": "22.8",
+    "carbohidratos": "1.9",
+    "grasas": "26.5"
+  },
+  {
+    "id_alimento": 281,
+    "nombre": "Queso  blanco duro de leche completa",
+    "calorias": "389.0",
+    "proteinas": "24.9",
+    "carbohidratos": "1.4",
+    "grasas": "31.5"
+  },
+  {
+    "id_alimento": 282,
+    "nombre": "Queso  blanco duro de leche descremada",
+    "calorias": "224.0",
+    "proteinas": "38.2",
+    "carbohidratos": "4.9",
+    "grasas": "5.7"
+  },
+  {
+    "id_alimento": 283,
+    "nombre": "Queso blanco duro de leche semi-descremada",
+    "calorias": "337.0",
+    "proteinas": "34.0",
+    "carbohidratos": "3.0",
+    "grasas": "21.0"
+  },
+  {
+    "id_alimento": 284,
+    "nombre": "Queso  blanco fundido para untar",
+    "calorias": "304.0",
+    "proteinas": "12.3",
+    "carbohidratos": "4.1",
+    "grasas": "26.5"
+  },
+  {
+    "id_alimento": 285,
+    "nombre": "Queso  blanco suave",
+    "calorias": "313.0",
+    "proteinas": "18.3",
+    "carbohidratos": "0.8",
+    "grasas": "26.3"
+  },
+  {
+    "id_alimento": 286,
+    "nombre": "Queso Cheddar",
+    "calorias": "398.0",
+    "proteinas": "25.0",
+    "carbohidratos": "2.1",
+    "grasas": "32.2"
+  },
+  {
+    "id_alimento": 287,
+    "nombre": "Queso  de año ",
+    "calorias": "402.0",
+    "proteinas": "24.3",
+    "carbohidratos": "2.4",
+    "grasas": "32.8"
+  },
+  {
+    "id_alimento": 288,
+    "nombre": "Queso  de cabra",
+    "calorias": "172.0",
+    "proteinas": "16.0",
+    "carbohidratos": "3.7",
+    "grasas": "10.3"
+  },
+  {
+    "id_alimento": 289,
+    "nombre": "Queso de crema (cream cheese)",
+    "calorias": "377.0",
+    "proteinas": "9.0",
+    "carbohidratos": "2.0",
+    "grasas": "37.0"
+  },
+  {
+    "id_alimento": 290,
+    "nombre": "Queso  de mano (29)",
+    "calorias": "316.0",
+    "proteinas": "19.3",
+    "carbohidratos": "4.0",
+    "grasas": "24.8"
+  },
+  {
+    "id_alimento": 291,
+    "nombre": "Queso Gouda",
+    "calorias": "355.0",
+    "proteinas": "24.9",
+    "carbohidratos": "2.3",
+    "grasas": "27.4"
+  },
+  {
+    "id_alimento": 292,
+    "nombre": "Queso guayanés",
+    "calorias": "284.0",
+    "proteinas": "18.8",
+    "carbohidratos": "0.4",
+    "grasas": "23.0"
+  },
+  {
+    "id_alimento": 293,
+    "nombre": "Queso gruyere",
+    "calorias": "404.0",
+    "proteinas": "28.8",
+    "carbohidratos": "0.6",
+    "grasas": "31.8"
+  },
+  {
+    "id_alimento": 294,
+    "nombre": "Queso mozzarela",
+    "calorias": "230.0",
+    "proteinas": "19.9",
+    "carbohidratos": "1.3",
+    "grasas": "16.1"
+  },
+  {
+    "id_alimento": 295,
+    "nombre": "Queso muenster",
+    "calorias": "363.0",
+    "proteinas": "24.2",
+    "carbohidratos": "2.4",
+    "grasas": "28.5"
+  },
+  {
+    "id_alimento": 296,
+    "nombre": "Queso parmesano",
+    "calorias": "391.0",
+    "proteinas": "40.8",
+    "carbohidratos": "1.3",
+    "grasas": "24.7"
+  },
+  {
+    "id_alimento": 297,
+    "nombre": "Queso requesón",
+    "calorias": "161.0",
+    "proteinas": "13.4",
+    "carbohidratos": "2.6",
+    "grasas": "10.8"
+  },
+  {
+    "id_alimento": 298,
+    "nombre": "Queso roquefort",
+    "calorias": "423.0",
+    "proteinas": "22.2",
+    "carbohidratos": "1.1",
+    "grasas": "36.6"
+  },
+  {
+    "id_alimento": 299,
+    "nombre": "Pasta para untar con sabor a queso",
+    "calorias": "323.0",
+    "proteinas": "7.2",
+    "carbohidratos": "9.2",
+    "grasas": "28.6"
+  },
+  {
+    "id_alimento": 300,
+    "nombre": "Yoghurt de leche completa y frutas",
+    "calorias": "114.0",
+    "proteinas": "3.6",
+    "carbohidratos": "17.7",
+    "grasas": "3.2"
+  },
+  {
+    "id_alimento": 301,
+    "nombre": "Yoghurt dulce de leche completa",
+    "calorias": "92.0",
+    "proteinas": "4.2",
+    "carbohidratos": "10.8",
+    "grasas": "3.6"
+  },
+  {
+    "id_alimento": 302,
+    "nombre": "Yoghurt líquido de leche semidescremada con frutas",
+    "calorias": "63.0",
+    "proteinas": "4.9",
+    "carbohidratos": "7.4",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 303,
+    "nombre": "Yoghurt líquido de leche descremada con frutas y edulcorante",
+    "calorias": "55.0",
+    "proteinas": "4.3",
+    "carbohidratos": "7.8",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 630,
+    "nombre": "Menudencias de pollo",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 304,
+    "nombre": "Yoghurt natural de leche completa",
+    "calorias": "74.0",
+    "proteinas": "4.3",
+    "carbohidratos": "5.7",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 305,
+    "nombre": "Yoghurt natural de leche descremada",
+    "calorias": "51.0",
+    "proteinas": "4.6",
+    "carbohidratos": "6.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 306,
+    "nombre": "Arvejas secas",
+    "calorias": "271.0",
+    "proteinas": "23.2",
+    "carbohidratos": "41.3",
+    "grasas": "1.4"
+  },
+  {
+    "id_alimento": 307,
+    "nombre": "Arvejas secas cocidas",
+    "calorias": "86.0",
+    "proteinas": "7.4",
+    "carbohidratos": "13.5",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 308,
+    "nombre": "Arvejas tiernas",
+    "calorias": "94.0",
+    "proteinas": "7.8",
+    "carbohidratos": "14.5",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 309,
+    "nombre": "Arvejas tiernas enlatadas",
+    "calorias": "67.0",
+    "proteinas": "4.7",
+    "carbohidratos": "11.4",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 310,
+    "nombre": "Caraotas blancas",
+    "calorias": "233.0",
+    "proteinas": "23.9",
+    "carbohidratos": "31.0",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 311,
+    "nombre": "Caraotas blancas cocidas",
+    "calorias": "84.0",
+    "proteinas": "8.0",
+    "carbohidratos": "11.8",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 312,
+    "nombre": "Caraotas blancas enlatadas",
+    "calorias": "73.0",
+    "proteinas": "6.3",
+    "carbohidratos": "10.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 313,
+    "nombre": "Caraotas negras",
+    "calorias": "248.0",
+    "proteinas": "23.0",
+    "carbohidratos": "35.4",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 314,
+    "nombre": "Caraotas negras cocidas",
+    "calorias": "82.0",
+    "proteinas": "8.5",
+    "carbohidratos": "11.3",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 315,
+    "nombre": "Caraotas negras enlatadas",
+    "calorias": "66.0",
+    "proteinas": "5.4",
+    "carbohidratos": "7.6",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 316,
+    "nombre": "Caraotas rojas",
+    "calorias": "251.0",
+    "proteinas": "20.9",
+    "carbohidratos": "37.3",
+    "grasas": "2.0"
+  },
+  {
+    "id_alimento": 317,
+    "nombre": "Caraotas rojas cocidas",
+    "calorias": "91.0",
+    "proteinas": "8.6",
+    "carbohidratos": "13.0",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 318,
+    "nombre": "Caraotas rojas enlatadas",
+    "calorias": "88.0",
+    "proteinas": "6.8",
+    "carbohidratos": "13.5",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 319,
+    "nombre": "Cuarentano",
+    "calorias": "322.0",
+    "proteinas": "24.1",
+    "carbohidratos": "57.4",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 320,
+    "nombre": "Frijol",
+    "calorias": "257.0",
+    "proteinas": "26.7",
+    "carbohidratos": "35.5",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 321,
+    "nombre": "Frijol cocido",
+    "calorias": "92.0",
+    "proteinas": "8.2",
+    "carbohidratos": "14.0",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 322,
+    "nombre": "Gallinazo",
+    "calorias": "311.0",
+    "proteinas": "22.1",
+    "carbohidratos": "61.2",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 323,
+    "nombre": "Garbanzos",
+    "calorias": "310.0",
+    "proteinas": "20.0",
+    "carbohidratos": "47.0",
+    "grasas": "4.6"
+  },
+  {
+    "id_alimento": 324,
+    "nombre": "Garbanzos cocidos",
+    "calorias": "113.0",
+    "proteinas": "9.5",
+    "carbohidratos": "14.7",
+    "grasas": "1.8"
+  },
+  {
+    "id_alimento": 325,
+    "nombre": "Guaracaro",
+    "calorias": "324.0",
+    "proteinas": "21.2",
+    "carbohidratos": "60.9",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 326,
+    "nombre": "Habas blancas",
+    "calorias": "267.0",
+    "proteinas": "25.5",
+    "carbohidratos": "38.4",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 327,
+    "nombre": "Habas rojas",
+    "calorias": "273.0",
+    "proteinas": "25.5",
+    "carbohidratos": "39.1",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 328,
+    "nombre": "Habas verdes",
+    "calorias": "111.0",
+    "proteinas": "9.3",
+    "carbohidratos": "17.2",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 329,
+    "nombre": "Lentejas",
+    "calorias": "252.0",
+    "proteinas": "23.9",
+    "carbohidratos": "37.0",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 330,
+    "nombre": "Lentejas cocidas",
+    "calorias": "65.0",
+    "proteinas": "6.8",
+    "carbohidratos": "8.7",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 331,
+    "nombre": "Quinchoncho seco",
+    "calorias": "250.0",
+    "proteinas": "20.9",
+    "carbohidratos": "39.3",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 332,
+    "nombre": "Quinchoncho seco cocido",
+    "calorias": "98.0",
+    "proteinas": "8.2",
+    "carbohidratos": "15.2",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 333,
+    "nombre": "Quinchoncho tierno",
+    "calorias": "121.0",
+    "proteinas": "8.4",
+    "carbohidratos": "23.2",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 334,
+    "nombre": "Soya grano entero",
+    "calorias": "412.0",
+    "proteinas": "33.4",
+    "carbohidratos": "38.3",
+    "grasas": "16.1"
+  },
+  {
+    "id_alimento": 335,
+    "nombre": "Harina de Soya. ",
+    "calorias": "442.0",
+    "proteinas": "35.4",
+    "carbohidratos": "32.2",
+    "grasas": "20.1"
+  },
+  {
+    "id_alimento": 336,
+    "nombre": "Harina desgrasada de Soya.",
+    "calorias": "335.0",
+    "proteinas": "52.0",
+    "carbohidratos": "32.7",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 337,
+    "nombre": "Apio",
+    "calorias": "94.0",
+    "proteinas": "1.0",
+    "carbohidratos": "22.3",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 338,
+    "nombre": "Apio cocido",
+    "calorias": "88.0",
+    "proteinas": "0.6",
+    "carbohidratos": "20.3",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 339,
+    "nombre": "Batata",
+    "calorias": "108.0",
+    "proteinas": "1.5",
+    "carbohidratos": "24.7",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 340,
+    "nombre": "Batata cocida",
+    "calorias": "83.0",
+    "proteinas": "1.9",
+    "carbohidratos": "18.6",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 341,
+    "nombre": "Mapuey blanco",
+    "calorias": "90.0",
+    "proteinas": "1.4",
+    "carbohidratos": "20.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 342,
+    "nombre": "Mapuey morado",
+    "calorias": "112.0",
+    "proteinas": "1.2",
+    "carbohidratos": "25.5",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 343,
+    "nombre": "Ñame",
+    "calorias": "98.0",
+    "proteinas": "2.1",
+    "carbohidratos": "21.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 344,
+    "nombre": "Ñame cocido",
+    "calorias": "88.0",
+    "proteinas": "1.7",
+    "carbohidratos": "19.9",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 345,
+    "nombre": "Ocumo",
+    "calorias": "103.0",
+    "proteinas": "1.7",
+    "carbohidratos": "22.3",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 346,
+    "nombre": "Ocumo cocido",
+    "calorias": "101.0",
+    "proteinas": "1.0",
+    "carbohidratos": "23.7",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 347,
+    "nombre": "Ocumo chino",
+    "calorias": "156.0",
+    "proteinas": "1.2",
+    "carbohidratos": "37.4",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 348,
+    "nombre": "Papa",
+    "calorias": "81.0",
+    "proteinas": "2.0",
+    "carbohidratos": "17.9",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 349,
+    "nombre": "Papa cocida",
+    "calorias": "68.0",
+    "proteinas": "2.0",
+    "carbohidratos": "14.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 350,
+    "nombre": "Papa morada",
+    "calorias": "80.0",
+    "proteinas": "2.1",
+    "carbohidratos": "17.3",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 351,
+    "nombre": "Yuca",
+    "calorias": "143.0",
+    "proteinas": "1.1",
+    "carbohidratos": "34.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 352,
+    "nombre": "Yuca cocida",
+    "calorias": "129.0",
+    "proteinas": "0.8",
+    "carbohidratos": "30.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 353,
+    "nombre": "Acelga",
+    "calorias": "19.0",
+    "proteinas": "2.0",
+    "carbohidratos": "2.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 354,
+    "nombre": "Aguacate",
+    "calorias": "152.0",
+    "proteinas": "1.3",
+    "carbohidratos": "5.2",
+    "grasas": "14.0"
+  },
+  {
+    "id_alimento": 355,
+    "nombre": "Ají chile picante",
+    "calorias": "41.0",
+    "proteinas": "1.2",
+    "carbohidratos": "9.7",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 356,
+    "nombre": "Ají dulce sin clasificar",
+    "calorias": "46.0",
+    "proteinas": "1.9",
+    "carbohidratos": "10.2",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 357,
+    "nombre": "Ají rojo picante",
+    "calorias": "63.0",
+    "proteinas": "2.2",
+    "carbohidratos": "14.1",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 358,
+    "nombre": "Ajo",
+    "calorias": "129.0",
+    "proteinas": "5.1",
+    "carbohidratos": "27.8",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 359,
+    "nombre": "Ajoporro",
+    "calorias": "36.0",
+    "proteinas": "1.5",
+    "carbohidratos": "7.2",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 360,
+    "nombre": "Alcachofa",
+    "calorias": "25.0",
+    "proteinas": "2.8",
+    "carbohidratos": "2.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 361,
+    "nombre": "Apio España (Celery)",
+    "calorias": "16.0",
+    "proteinas": "0.9",
+    "carbohidratos": "2.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 362,
+    "nombre": "Auyama",
+    "calorias": "43.0",
+    "proteinas": "1.5",
+    "carbohidratos": "8.4",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 363,
+    "nombre": "Auyama cocida",
+    "calorias": "27.0",
+    "proteinas": "0.8",
+    "carbohidratos": "5.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 364,
+    "nombre": "Berenjena",
+    "calorias": "18.0",
+    "proteinas": "1.0",
+    "carbohidratos": "2.8",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 365,
+    "nombre": "Berro",
+    "calorias": "18.0",
+    "proteinas": "2.2",
+    "carbohidratos": "1.5",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 366,
+    "nombre": "Brócoli",
+    "calorias": "27.0",
+    "proteinas": "3.8",
+    "carbohidratos": "2.1",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 367,
+    "nombre": "Calabacín",
+    "calorias": "11.0",
+    "proteinas": "1.2",
+    "carbohidratos": "1.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 368,
+    "nombre": "Cebolla",
+    "calorias": "43.0",
+    "proteinas": "1.4",
+    "carbohidratos": "9.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 369,
+    "nombre": "Coliflor",
+    "calorias": "19.0",
+    "proteinas": "2.5",
+    "carbohidratos": "1.8",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 370,
+    "nombre": "Colinabo",
+    "calorias": "31.0",
+    "proteinas": "2.0",
+    "carbohidratos": "6.4",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 371,
+    "nombre": "Chayota",
+    "calorias": "25.0",
+    "proteinas": "0.7",
+    "carbohidratos": "5.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 372,
+    "nombre": "Escarola",
+    "calorias": "14.0",
+    "proteinas": "1.4",
+    "carbohidratos": "1.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 373,
+    "nombre": "Espárrago",
+    "calorias": "23.0",
+    "proteinas": "2.2",
+    "carbohidratos": "3.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 374,
+    "nombre": "Espárrago enlatado",
+    "calorias": "25.0",
+    "proteinas": "2.4",
+    "carbohidratos": "2.9",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 375,
+    "nombre": "Espinaca",
+    "calorias": "17.0",
+    "proteinas": "2.3",
+    "carbohidratos": "1.3",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 376,
+    "nombre": "Hongos",
+    "calorias": "26.0",
+    "proteinas": "2.7",
+    "carbohidratos": "3.4",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 377,
+    "nombre": "Hongos enlatados",
+    "calorias": "25.0",
+    "proteinas": "2.3",
+    "carbohidratos": "2.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 378,
+    "nombre": "Lairén",
+    "calorias": "45.0",
+    "proteinas": "0.5",
+    "carbohidratos": "9.7",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 379,
+    "nombre": "Lechuga",
+    "calorias": "10.0",
+    "proteinas": "1.2",
+    "carbohidratos": "0.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 380,
+    "nombre": "Nabo blanco",
+    "calorias": "25.0",
+    "proteinas": "1.1",
+    "carbohidratos": "5.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 381,
+    "nombre": "Palmito",
+    "calorias": "41.0",
+    "proteinas": "1.6",
+    "carbohidratos": "8.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 382,
+    "nombre": "Pepino",
+    "calorias": "13.0",
+    "proteinas": "0.7",
+    "carbohidratos": "2.4",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 383,
+    "nombre": "Perejil",
+    "calorias": "37.0",
+    "proteinas": "4.0",
+    "carbohidratos": "3.4",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 384,
+    "nombre": "Pimentón rojo",
+    "calorias": "20.0",
+    "proteinas": "0.8",
+    "carbohidratos": "3.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 385,
+    "nombre": "Pimentón verde",
+    "calorias": "19.0",
+    "proteinas": "0.9",
+    "carbohidratos": "3.7",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 386,
+    "nombre": "Quimbombó",
+    "calorias": "34.0",
+    "proteinas": "2.4",
+    "carbohidratos": "6.5",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 387,
+    "nombre": "Rábano",
+    "calorias": "15.0",
+    "proteinas": "1.0",
+    "carbohidratos": "2.6",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 388,
+    "nombre": "Remolacha",
+    "calorias": "35.0",
+    "proteinas": "1.4",
+    "carbohidratos": "6.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 389,
+    "nombre": "Remolacha enlatada",
+    "calorias": "28.0",
+    "proteinas": "1.0",
+    "carbohidratos": "5.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 390,
+    "nombre": "Repollito de Bruselas",
+    "calorias": "40.0",
+    "proteinas": "4.7",
+    "carbohidratos": "4.4",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 391,
+    "nombre": "Repollo blanco",
+    "calorias": "25.0",
+    "proteinas": "1.4",
+    "carbohidratos": "4.3",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 392,
+    "nombre": "Repollo morado",
+    "calorias": "16.0",
+    "proteinas": "1.8",
+    "carbohidratos": "1.4",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 393,
+    "nombre": "Ruibarbo",
+    "calorias": "17.0",
+    "proteinas": "0.6",
+    "carbohidratos": "4.2",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 394,
+    "nombre": "Tomate enlatado",
+    "calorias": "10.0",
+    "proteinas": "1.1",
+    "carbohidratos": "2.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 395,
+    "nombre": "Tomate manzano",
+    "calorias": "15.0",
+    "proteinas": "1.4",
+    "carbohidratos": "1.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 396,
+    "nombre": "Tomate perita",
+    "calorias": "17.0",
+    "proteinas": "1.2",
+    "carbohidratos": "1.8",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 397,
+    "nombre": "Vainita",
+    "calorias": "31.0",
+    "proteinas": "2.4",
+    "carbohidratos": "4.8",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 398,
+    "nombre": "Vainitas enlatadas",
+    "calorias": "13.0",
+    "proteinas": "1.3",
+    "carbohidratos": "1.7",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 399,
+    "nombre": "Vegetales mixtos enlatados",
+    "calorias": "34.0",
+    "proteinas": "2.6",
+    "carbohidratos": "5.1",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 400,
+    "nombre": "Zanahoria",
+    "calorias": "32.0",
+    "proteinas": "1.0",
+    "carbohidratos": "6.5",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 401,
+    "nombre": "Zanahoria enlatada",
+    "calorias": "26.0",
+    "proteinas": "0.8",
+    "carbohidratos": "5.0",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 402,
+    "nombre": "Aceituna verde",
+    "calorias": "137.0",
+    "proteinas": "1.5",
+    "carbohidratos": "2.4",
+    "grasas": "13.5"
+  },
+  {
+    "id_alimento": 403,
+    "nombre": "Albaricoque",
+    "calorias": "50.0",
+    "proteinas": "1.0",
+    "carbohidratos": "11.3",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 404,
+    "nombre": "Albaricoque. compota para niños",
+    "calorias": "64.0",
+    "proteinas": "1.0",
+    "carbohidratos": "15.2",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 405,
+    "nombre": "Albaricoque enlatado. con sirup",
+    "calorias": "84.0",
+    "proteinas": "0.6",
+    "carbohidratos": "20.2",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 406,
+    "nombre": "Albaricoque seco",
+    "calorias": "284.0",
+    "proteinas": "5.2",
+    "carbohidratos": "64.8",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 407,
+    "nombre": "Anón",
+    "calorias": "100.0",
+    "proteinas": "1.6",
+    "carbohidratos": "24.6",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 408,
+    "nombre": "Caimito",
+    "calorias": "72.0",
+    "proteinas": "0.8",
+    "carbohidratos": "14.5",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 409,
+    "nombre": "Cambur cuyaco",
+    "calorias": "92.0",
+    "proteinas": "1.9",
+    "carbohidratos": "19.8",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 410,
+    "nombre": "Cambur guineo morado",
+    "calorias": "85.0",
+    "proteinas": "1.2",
+    "carbohidratos": "19.3",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 411,
+    "nombre": "Cambur guineo verde",
+    "calorias": "78.0",
+    "proteinas": "1.7",
+    "carbohidratos": "17.0",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 412,
+    "nombre": "Cambur. Harina de",
+    "calorias": "358.0",
+    "proteinas": "3.7",
+    "carbohidratos": "85.6",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 413,
+    "nombre": "Cambur manzano",
+    "calorias": "95.0",
+    "proteinas": "1.0",
+    "carbohidratos": "19.8",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 631,
+    "nombre": "Vainilla",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 414,
+    "nombre": "Cambur pasado",
+    "calorias": "231.0",
+    "proteinas": "3.3",
+    "carbohidratos": "49.2",
+    "grasas": "2.8"
+  },
+  {
+    "id_alimento": 415,
+    "nombre": "Cambur pineo",
+    "calorias": "70.0",
+    "proteinas": "1.5",
+    "carbohidratos": "13.8",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 416,
+    "nombre": "Cambur titiaro",
+    "calorias": "132.0",
+    "proteinas": "1.4",
+    "carbohidratos": "27.7",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 417,
+    "nombre": "Cambur topocho",
+    "calorias": "124.0",
+    "proteinas": "1.3",
+    "carbohidratos": "27.8",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 418,
+    "nombre": "Ciruela de huesito",
+    "calorias": "80.0",
+    "proteinas": "0.9",
+    "carbohidratos": "17.9",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 419,
+    "nombre": "Ciruela morada (importada)",
+    "calorias": "57.0",
+    "proteinas": "0.7",
+    "carbohidratos": "13.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 420,
+    "nombre": "Ciruela pasa",
+    "calorias": "272.0",
+    "proteinas": "2.3",
+    "carbohidratos": "64.3",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 421,
+    "nombre": "Coco maduro",
+    "calorias": "295.0",
+    "proteinas": "3.5",
+    "carbohidratos": "9.1",
+    "grasas": "27.2"
+  },
+  {
+    "id_alimento": 422,
+    "nombre": "Coco tierno",
+    "calorias": "117.0",
+    "proteinas": "1.9",
+    "carbohidratos": "0.6",
+    "grasas": "11.9"
+  },
+  {
+    "id_alimento": 423,
+    "nombre": "Curuba",
+    "calorias": "29.0",
+    "proteinas": "0.6",
+    "carbohidratos": "6.6",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 424,
+    "nombre": "Chirimorriñón (Chirimoya)",
+    "calorias": "91.0",
+    "proteinas": "1.1",
+    "carbohidratos": "23.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 425,
+    "nombre": "Chirimoya (Corazón)",
+    "calorias": "91.0",
+    "proteinas": "1.1",
+    "carbohidratos": "20.3",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 426,
+    "nombre": "Dátil seco",
+    "calorias": "281.0",
+    "proteinas": "2.2",
+    "carbohidratos": "66.7",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 427,
+    "nombre": "Durazno criollo",
+    "calorias": "49.0",
+    "proteinas": "0.4",
+    "carbohidratos": "11.7",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 428,
+    "nombre": "Fresa",
+    "calorias": "39.0",
+    "proteinas": "0.8",
+    "carbohidratos": "7.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 429,
+    "nombre": "Fruta de pan",
+    "calorias": "90.0",
+    "proteinas": "1.3",
+    "carbohidratos": "21.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 430,
+    "nombre": "Granada",
+    "calorias": "69.0",
+    "proteinas": "0.7",
+    "carbohidratos": "15.5",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 431,
+    "nombre": "Grappe fruit",
+    "calorias": "32.0",
+    "proteinas": "0.8",
+    "carbohidratos": "7.2",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 432,
+    "nombre": "Guama",
+    "calorias": "67.0",
+    "proteinas": "1.0",
+    "carbohidratos": "16.7",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 433,
+    "nombre": "Guanábana",
+    "calorias": "63.0",
+    "proteinas": "1.0",
+    "carbohidratos": "14.9",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 434,
+    "nombre": "Guayaba colorada o rosada",
+    "calorias": "29.0",
+    "proteinas": "1.0",
+    "carbohidratos": "5.4",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 435,
+    "nombre": "Guayaba parcha o blanca",
+    "calorias": "49.0",
+    "proteinas": "1.0",
+    "carbohidratos": "10.2",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 436,
+    "nombre": "Higo",
+    "calorias": "85.0",
+    "proteinas": "1.4",
+    "carbohidratos": "18.9",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 437,
+    "nombre": "Higo seco",
+    "calorias": "252.0",
+    "proteinas": "4.0",
+    "carbohidratos": "56.2",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 438,
+    "nombre": "Icaco",
+    "calorias": "51.0",
+    "proteinas": "0.4",
+    "carbohidratos": "13.1",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 439,
+    "nombre": "Jobo amarillo",
+    "calorias": "77.0",
+    "proteinas": "0.8",
+    "carbohidratos": "14.8",
+    "grasas": "2.1"
+  },
+  {
+    "id_alimento": 440,
+    "nombre": "Kiwi",
+    "calorias": "60.0",
+    "proteinas": "1.0",
+    "carbohidratos": "12.6",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 441,
+    "nombre": "Lechosa",
+    "calorias": "31.0",
+    "proteinas": "0.6",
+    "carbohidratos": "6.9",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 442,
+    "nombre": "Lima dulce",
+    "calorias": "34.0",
+    "proteinas": "0.7",
+    "carbohidratos": "7.4",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 443,
+    "nombre": "Limón",
+    "calorias": "44.0",
+    "proteinas": "0.9",
+    "carbohidratos": "9.6",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 444,
+    "nombre": "Mamey",
+    "calorias": "41.0",
+    "proteinas": "0.3",
+    "carbohidratos": "9.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 445,
+    "nombre": "Mamón",
+    "calorias": "83.0",
+    "proteinas": "1.2",
+    "carbohidratos": "16.9",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 446,
+    "nombre": "Mandarina",
+    "calorias": "50.0",
+    "proteinas": "0.8",
+    "carbohidratos": "11.9",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 447,
+    "nombre": "Manga",
+    "calorias": "55.0",
+    "proteinas": "0.6",
+    "carbohidratos": "12.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 448,
+    "nombre": "Mango bocado",
+    "calorias": "62.0",
+    "proteinas": "0.6",
+    "carbohidratos": "14.6",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 449,
+    "nombre": "Mango de hilacha",
+    "calorias": "72.0",
+    "proteinas": "0.6",
+    "carbohidratos": "17.1",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 450,
+    "nombre": "Manzana. compota para niños",
+    "calorias": "65.0",
+    "proteinas": "0.5",
+    "carbohidratos": "16.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 451,
+    "nombre": "Manzana criolla",
+    "calorias": "42.0",
+    "proteinas": "0.4",
+    "carbohidratos": "9.7",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 452,
+    "nombre": "Manzana importada",
+    "calorias": "55.0",
+    "proteinas": "0.3",
+    "carbohidratos": "12.8",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 453,
+    "nombre": "Manzana seca",
+    "calorias": "270.0",
+    "proteinas": "1.4",
+    "carbohidratos": "63.8",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 454,
+    "nombre": "Melocotón",
+    "calorias": "65.0",
+    "proteinas": "0.5",
+    "carbohidratos": "15.4",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 455,
+    "nombre": "Melocotón. compota para niños",
+    "calorias": "65.0",
+    "proteinas": "0.8",
+    "carbohidratos": "15.1",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 456,
+    "nombre": "Melocotón. enlatado con sirup",
+    "calorias": "71.0",
+    "proteinas": "0.4",
+    "carbohidratos": "17.1",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 457,
+    "nombre": "Melocotón seco",
+    "calorias": "253.0",
+    "proteinas": "3.0",
+    "carbohidratos": "58.8",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 458,
+    "nombre": "Melón",
+    "calorias": "21.0",
+    "proteinas": "0.6",
+    "carbohidratos": "4.3",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 459,
+    "nombre": "Membrillo",
+    "calorias": "51.0",
+    "proteinas": "0.3",
+    "carbohidratos": "11.4",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 460,
+    "nombre": "Merey",
+    "calorias": "46.0",
+    "proteinas": "0.8",
+    "carbohidratos": "11.4",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 461,
+    "nombre": "Mora-Zarzamora",
+    "calorias": "66.0",
+    "proteinas": "1.2",
+    "carbohidratos": "13.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 462,
+    "nombre": "Naranja cajera",
+    "calorias": "58.0",
+    "proteinas": "0.7",
+    "carbohidratos": "13.9",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 463,
+    "nombre": "Naranja china",
+    "calorias": "44.0",
+    "proteinas": "1.4",
+    "carbohidratos": "8.3",
+    "grasas": "0.7"
+  },
+  {
+    "id_alimento": 464,
+    "nombre": "Naranja Valencia",
+    "calorias": "35.0",
+    "proteinas": "0.7",
+    "carbohidratos": "8.8",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 465,
+    "nombre": "Níspero",
+    "calorias": "79.0",
+    "proteinas": "0.4",
+    "carbohidratos": "17.9",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 466,
+    "nombre": "Níspero del Japón",
+    "calorias": "47.0",
+    "proteinas": "0.5",
+    "carbohidratos": "10.5",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 467,
+    "nombre": "Parcha granadina",
+    "calorias": "33.0",
+    "proteinas": "0.8",
+    "carbohidratos": "6.9",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 468,
+    "nombre": "Parcha morada",
+    "calorias": "51.0",
+    "proteinas": "1.3",
+    "carbohidratos": "10.5",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 469,
+    "nombre": "Parchita",
+    "calorias": "78.0",
+    "proteinas": "1.8",
+    "carbohidratos": "13.9",
+    "grasas": "3.4"
+  },
+  {
+    "id_alimento": 470,
+    "nombre": "Patilla",
+    "calorias": "21.0",
+    "proteinas": "0.5",
+    "carbohidratos": "4.8",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 471,
+    "nombre": "Pera",
+    "calorias": "63.0",
+    "proteinas": "0.7",
+    "carbohidratos": "14.2",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 472,
+    "nombre": "Pera. compota para niños",
+    "calorias": "53.0",
+    "proteinas": "0.7",
+    "carbohidratos": "13.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 473,
+    "nombre": "Pera enlatada. con sirup",
+    "calorias": "74.0",
+    "proteinas": "0.2",
+    "carbohidratos": "18.1",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 474,
+    "nombre": "Piña",
+    "calorias": "55.0",
+    "proteinas": "0.4",
+    "carbohidratos": "8.4",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 475,
+    "nombre": "Pitahaya",
+    "calorias": "62.0",
+    "proteinas": "1.4",
+    "carbohidratos": "14.6",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 476,
+    "nombre": "Plátano maduro",
+    "calorias": "137.0",
+    "proteinas": "1.2",
+    "carbohidratos": "32.1",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 477,
+    "nombre": "Plátano maduro horneado",
+    "calorias": "168.0",
+    "proteinas": "1.5",
+    "carbohidratos": "40.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 478,
+    "nombre": "Plátano maduro sancochado",
+    "calorias": "133.0",
+    "proteinas": "1.2",
+    "carbohidratos": "31.4",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 479,
+    "nombre": "Plátano pintón",
+    "calorias": "147.0",
+    "proteinas": "1.2",
+    "carbohidratos": "35.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 480,
+    "nombre": "Plátano verde",
+    "calorias": "148.0",
+    "proteinas": "1.4",
+    "carbohidratos": "34.9",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 481,
+    "nombre": "Plátano verde asado",
+    "calorias": "201.0",
+    "proteinas": "1.5",
+    "carbohidratos": "47.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 482,
+    "nombre": "Plátano verde. Harina de",
+    "calorias": "332.0",
+    "proteinas": "2.7",
+    "carbohidratos": "76.6",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 483,
+    "nombre": "Plátano verde sancochado",
+    "calorias": "138.0",
+    "proteinas": "1.4",
+    "carbohidratos": "32.7",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 484,
+    "nombre": "Plátano verde. sopa de",
+    "calorias": "74.0",
+    "proteinas": "0.4",
+    "carbohidratos": "11.2",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 485,
+    "nombre": "Pomarrosa",
+    "calorias": "67.0",
+    "proteinas": "0.6",
+    "carbohidratos": "17.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 486,
+    "nombre": "Riñón",
+    "calorias": "87.0",
+    "proteinas": "2.1",
+    "carbohidratos": "19.2",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 487,
+    "nombre": "Semeruco",
+    "calorias": "40.0",
+    "proteinas": "0.4",
+    "carbohidratos": "9.1",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 488,
+    "nombre": "Tamarindo",
+    "calorias": "296.0",
+    "proteinas": "2.4",
+    "carbohidratos": "73.7",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 489,
+    "nombre": "Tomate francés (de árbol)",
+    "calorias": "44.0",
+    "proteinas": "1.8",
+    "carbohidratos": "11.2",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 490,
+    "nombre": "Toronja",
+    "calorias": "38.0",
+    "proteinas": "0.6",
+    "carbohidratos": "8.5",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 491,
+    "nombre": "Tuna sin semilla",
+    "calorias": "75.0",
+    "proteinas": "0.5",
+    "carbohidratos": "18.4",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 492,
+    "nombre": "Urupagua",
+    "calorias": "200.0",
+    "proteinas": "2.7",
+    "carbohidratos": "40.9",
+    "grasas": "3.6"
+  },
+  {
+    "id_alimento": 493,
+    "nombre": "Uva",
+    "calorias": "68.0",
+    "proteinas": "0.7",
+    "carbohidratos": "15.7",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 494,
+    "nombre": "Uva de playa",
+    "calorias": "81.0",
+    "proteinas": "1.4",
+    "carbohidratos": "20.3",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 495,
+    "nombre": "Uva pasa",
+    "calorias": "277.0",
+    "proteinas": "2.3",
+    "carbohidratos": "65.9",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 496,
+    "nombre": "Zapote (mamey colorado)",
+    "calorias": "111.0",
+    "proteinas": "1.2",
+    "carbohidratos": "25.2",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 497,
+    "nombre": "Arepa con carne mechada",
+    "calorias": "160.0",
+    "proteinas": "15.5",
+    "carbohidratos": "18.5",
+    "grasas": "2.7"
+  },
+  {
+    "id_alimento": 498,
+    "nombre": "Arepa con ensalada de gallina y aguacate",
+    "calorias": "158.0",
+    "proteinas": "9.1",
+    "carbohidratos": "19.9",
+    "grasas": "4.7"
+  },
+  {
+    "id_alimento": 499,
+    "nombre": "Arepa con jamón y queso amarillo",
+    "calorias": "176.0",
+    "proteinas": "8.6",
+    "carbohidratos": "18.8",
+    "grasas": "7.4"
+  },
+  {
+    "id_alimento": 500,
+    "nombre": "Arepa con pollo",
+    "calorias": "160.0",
+    "proteinas": "10.9",
+    "carbohidratos": "20.7",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 501,
+    "nombre": "Arepa con queso guayanés",
+    "calorias": "198.0",
+    "proteinas": "8.8",
+    "carbohidratos": "21.7",
+    "grasas": "8.4"
+  },
+  {
+    "id_alimento": 502,
+    "nombre": "Bocadillo de guayaba ",
+    "calorias": "322.0",
+    "proteinas": "0.4",
+    "carbohidratos": "80.1",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 503,
+    "nombre": "Cachapa de budare ",
+    "calorias": "137.0",
+    "proteinas": "4.0",
+    "carbohidratos": "27.3",
+    "grasas": "1.3"
+  },
+  {
+    "id_alimento": 504,
+    "nombre": "Cafunga ",
+    "calorias": "156.0",
+    "proteinas": "3.7",
+    "carbohidratos": "27.8",
+    "grasas": "3.3"
+  },
+  {
+    "id_alimento": 505,
+    "nombre": "Carne mechada. frita ",
+    "calorias": "247.0",
+    "proteinas": "21.3",
+    "carbohidratos": "0.0",
+    "grasas": "16.5"
+  },
+  {
+    "id_alimento": 506,
+    "nombre": "Casabe ",
+    "calorias": "333.0",
+    "proteinas": "1.3",
+    "carbohidratos": "80.6",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 507,
+    "nombre": "Catalina ",
+    "calorias": "343.0",
+    "proteinas": "8.1",
+    "carbohidratos": "76.4",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 508,
+    "nombre": "Cotufa",
+    "calorias": "50.0",
+    "proteinas": "12.0",
+    "carbohidratos": "62.8",
+    "grasas": "5.6"
+  },
+  {
+    "id_alimento": 509,
+    "nombre": "Churro ",
+    "calorias": "373.0",
+    "proteinas": "11.1",
+    "carbohidratos": "75.4",
+    "grasas": "3.2"
+  },
+  {
+    "id_alimento": 510,
+    "nombre": "Empanada de caraota ",
+    "calorias": "253.0",
+    "proteinas": "4.1",
+    "carbohidratos": "29.1",
+    "grasas": "13.4"
+  },
+  {
+    "id_alimento": 511,
+    "nombre": "Empanada de carne ",
+    "calorias": "282.0",
+    "proteinas": "5.8",
+    "carbohidratos": "31.7",
+    "grasas": "14.7"
+  },
+  {
+    "id_alimento": 512,
+    "nombre": "Empanada de cazón ",
+    "calorias": "262.0",
+    "proteinas": "8.6",
+    "carbohidratos": "21.0",
+    "grasas": "16.0"
+  },
+  {
+    "id_alimento": 513,
+    "nombre": "Empanada de queso ",
+    "calorias": "292.0",
+    "proteinas": "6.1",
+    "carbohidratos": "31.6",
+    "grasas": "15.7"
+  },
+  {
+    "id_alimento": 514,
+    "nombre": "Flan preparado",
+    "calorias": "113.0",
+    "proteinas": "2.9",
+    "carbohidratos": "17.8",
+    "grasas": "3.4"
+  },
+  {
+    "id_alimento": 515,
+    "nombre": "Gelatina preparada",
+    "calorias": "67.0",
+    "proteinas": "1.6",
+    "carbohidratos": "15.2",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 516,
+    "nombre": "Golfeado ",
+    "calorias": "326.0",
+    "proteinas": "5.2",
+    "carbohidratos": "64.4",
+    "grasas": "5.5"
+  },
+  {
+    "id_alimento": 517,
+    "nombre": "Hallaca criolla ",
+    "calorias": "183.0",
+    "proteinas": "6.5",
+    "carbohidratos": "15.0",
+    "grasas": "10.8"
+  },
+  {
+    "id_alimento": 518,
+    "nombre": "Hamburguesa con queso",
+    "calorias": "247.0",
+    "proteinas": "12.3",
+    "carbohidratos": "23.0",
+    "grasas": "11.8"
+  },
+  {
+    "id_alimento": 519,
+    "nombre": "Hamburguesa doble carne. doble queso",
+    "calorias": "285.0",
+    "proteinas": "16.3",
+    "carbohidratos": "18.7",
+    "grasas": "16.1"
+  },
+  {
+    "id_alimento": 520,
+    "nombre": "Hamburguesa con queso y mayonesa",
+    "calorias": "250.0",
+    "proteinas": "14.0",
+    "carbohidratos": "16.7",
+    "grasas": "14.1"
+  },
+  {
+    "id_alimento": 521,
+    "nombre": "Hervido de gallina ",
+    "calorias": "74.0",
+    "proteinas": "2.4",
+    "carbohidratos": "7.2",
+    "grasas": "4.2"
+  },
+  {
+    "id_alimento": 522,
+    "nombre": "Hervido de pescado ",
+    "calorias": "49.0",
+    "proteinas": "8.6",
+    "carbohidratos": "3.2",
+    "grasas": "3.0"
+  },
+  {
+    "id_alimento": 523,
+    "nombre": "Hervido de res ",
+    "calorias": "60.0",
+    "proteinas": "2.8",
+    "carbohidratos": "6.5",
+    "grasas": "3.1"
+  },
+  {
+    "id_alimento": 524,
+    "nombre": "Jalea de mango ",
+    "calorias": "185.0",
+    "proteinas": "0.5",
+    "carbohidratos": "43.7",
+    "grasas": "1.0"
+  },
+  {
+    "id_alimento": 525,
+    "nombre": "Majarete ",
+    "calorias": "128.0",
+    "proteinas": "1.3",
+    "carbohidratos": "24.2",
+    "grasas": "2.9"
+  },
+  {
+    "id_alimento": 526,
+    "nombre": "Mermelada",
+    "calorias": "287.0",
+    "proteinas": "0.5",
+    "carbohidratos": "71.2",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 527,
+    "nombre": "Mondongo (sopa) ",
+    "calorias": "95.0",
+    "proteinas": "6.9",
+    "carbohidratos": "6.1",
+    "grasas": "4.9"
+  },
+  {
+    "id_alimento": 528,
+    "nombre": "Pabellón ",
+    "calorias": "136.0",
+    "proteinas": "10.4",
+    "carbohidratos": "12.6",
+    "grasas": "4.9"
+  },
+  {
+    "id_alimento": 529,
+    "nombre": "Papas fritas",
+    "calorias": "318.0",
+    "proteinas": "4.5",
+    "carbohidratos": "49.5",
+    "grasas": "11.3"
+  },
+  {
+    "id_alimento": 530,
+    "nombre": "Pelota ",
+    "calorias": "111.0",
+    "proteinas": "0.5",
+    "carbohidratos": "22.5",
+    "grasas": "2.1"
+  },
+  {
+    "id_alimento": 531,
+    "nombre": "Plátano maduro frito (tajadas) ",
+    "calorias": "224.0",
+    "proteinas": "1.4",
+    "carbohidratos": "34.0",
+    "grasas": "9.2"
+  },
+  {
+    "id_alimento": 532,
+    "nombre": "Dulce de Plátano maduro ",
+    "calorias": "211.0",
+    "proteinas": "1.5",
+    "carbohidratos": "49.5",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 533,
+    "nombre": "Tostones de Plátano verde",
+    "calorias": "252.0",
+    "proteinas": "1.9",
+    "carbohidratos": "38.3",
+    "grasas": "10.1"
+  },
+  {
+    "id_alimento": 534,
+    "nombre": "Pudín preparado ",
+    "calorias": "130.0",
+    "proteinas": "3.4",
+    "carbohidratos": "22.2",
+    "grasas": "3.1"
+  },
+  {
+    "id_alimento": 535,
+    "nombre": "Tapioca seca",
+    "calorias": "350.0",
+    "proteinas": "0.6",
+    "carbohidratos": "86.5",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 536,
+    "nombre": "Aceite",
+    "calorias": "900.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "100.0"
+  },
+  {
+    "id_alimento": 537,
+    "nombre": "Azúcar blanca",
+    "calorias": "398.0",
+    "proteinas": "0.0",
+    "carbohidratos": "99.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 538,
+    "nombre": "Azúcar morena",
+    "calorias": "383.0",
+    "proteinas": "0.0",
+    "carbohidratos": "95.8",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 539,
+    "nombre": "Cacao. grano íntegro sin cáscara",
+    "calorias": "563.0",
+    "proteinas": "12.4",
+    "carbohidratos": "34.3",
+    "grasas": "43.7"
+  },
+  {
+    "id_alimento": 540,
+    "nombre": "Café tostado",
+    "calorias": "398.0",
+    "proteinas": "14.2",
+    "carbohidratos": "61.4",
+    "grasas": "14.0"
+  },
+  {
+    "id_alimento": 541,
+    "nombre": "Cereal con chocolate. tipo Müsli ",
+    "calorias": "351.0",
+    "proteinas": "6.7",
+    "carbohidratos": "71.1",
+    "grasas": "4.4"
+  },
+  {
+    "id_alimento": 542,
+    "nombre": "Cereal con fruta. tipo Müsli ",
+    "calorias": "331.0",
+    "proteinas": "6.7",
+    "carbohidratos": "71.1",
+    "grasas": "2.2"
+  },
+  {
+    "id_alimento": 543,
+    "nombre": "Cereales Infantiles  con leche ",
+    "calorias": "410.0",
+    "proteinas": "16.0",
+    "carbohidratos": "69.2",
+    "grasas": "8.0"
+  },
+  {
+    "id_alimento": 544,
+    "nombre": "Cereales Infantiles sin leche ",
+    "calorias": "356.0",
+    "proteinas": "16.0",
+    "carbohidratos": "72.2",
+    "grasas": "0.8"
+  },
+  {
+    "id_alimento": 545,
+    "nombre": "Cereales Infantiles sin leche ",
+    "calorias": "365.0",
+    "proteinas": "9.6",
+    "carbohidratos": "78.9",
+    "grasas": "2.6"
+  },
+  {
+    "id_alimento": 546,
+    "nombre": "Chocolate simple dulce",
+    "calorias": "467.0",
+    "proteinas": "3.8",
+    "carbohidratos": "76.1",
+    "grasas": "16.8"
+  },
+  {
+    "id_alimento": 547,
+    "nombre": "Ensalada de frutas enlatada",
+    "calorias": "75.0",
+    "proteinas": "0.4",
+    "carbohidratos": "17.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 548,
+    "nombre": "Ensalada de vegetales a la Mayonesa enlatada",
+    "calorias": "83.0",
+    "proteinas": "1.3",
+    "carbohidratos": "12.1",
+    "grasas": "3.8"
+  },
+  {
+    "id_alimento": 549,
+    "nombre": "Flan en polvo",
+    "calorias": "395.0",
+    "proteinas": "0.0",
+    "carbohidratos": "98.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 550,
+    "nombre": "Gelatina en polvo (con azúcar y sabor)",
+    "calorias": "392.0",
+    "proteinas": "9.4",
+    "carbohidratos": "28.7",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 551,
+    "nombre": "Gelatina seca natural",
+    "calorias": "343.0",
+    "proteinas": "85.6",
+    "carbohidratos": "0.0",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 552,
+    "nombre": "Gofio cumanés ",
+    "calorias": "334.0",
+    "proteinas": "0.5",
+    "carbohidratos": "80.4",
+    "grasas": "1.4"
+  },
+  {
+    "id_alimento": 553,
+    "nombre": "Helado de crema",
+    "calorias": "212.0",
+    "proteinas": "4.1",
+    "carbohidratos": "22.0",
+    "grasas": "12.0"
+  },
+  {
+    "id_alimento": 554,
+    "nombre": "Helado de leche",
+    "calorias": "125.0",
+    "proteinas": "5.0",
+    "carbohidratos": "25.4",
+    "grasas": "4.0"
+  },
+  {
+    "id_alimento": 555,
+    "nombre": "Lactovisoy ",
+    "calorias": "389.0",
+    "proteinas": "16.0",
+    "carbohidratos": "78.4",
+    "grasas": "0.9"
+  },
+  {
+    "id_alimento": 556,
+    "nombre": "Levadura de cerveza. seca",
+    "calorias": "345.0",
+    "proteinas": "36.9",
+    "carbohidratos": "46.6",
+    "grasas": "1.6"
+  },
+  {
+    "id_alimento": 557,
+    "nombre": "Manteca de cerdo",
+    "calorias": "900.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "100.0"
+  },
+  {
+    "id_alimento": 558,
+    "nombre": "Margarina",
+    "calorias": "733.0",
+    "proteinas": "0.6",
+    "carbohidratos": "0.4",
+    "grasas": "81.0"
+  },
+  {
+    "id_alimento": 559,
+    "nombre": "Mayonesa",
+    "calorias": "748.0",
+    "proteinas": "1.1",
+    "carbohidratos": "6.2",
+    "grasas": "80.0"
+  },
+  {
+    "id_alimento": 560,
+    "nombre": "Melaza",
+    "calorias": "260.0",
+    "proteinas": "0.0",
+    "carbohidratos": "65.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 561,
+    "nombre": "Mezcla para hacer cachapa",
+    "calorias": "366.0",
+    "proteinas": "6.9",
+    "carbohidratos": "81.3",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 562,
+    "nombre": "Mezcla para hacer panqueca",
+    "calorias": "343.0",
+    "proteinas": "8.8",
+    "carbohidratos": "75.8",
+    "grasas": "0.5"
+  },
+  {
+    "id_alimento": 563,
+    "nombre": "Miel de abeja",
+    "calorias": "319.0",
+    "proteinas": "0.3",
+    "carbohidratos": "79.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 564,
+    "nombre": "Miel de caña",
+    "calorias": "296.0",
+    "proteinas": "0.5",
+    "carbohidratos": "73.1",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 565,
+    "nombre": "Mostaza",
+    "calorias": "84.0",
+    "proteinas": "4.7",
+    "carbohidratos": "6.4",
+    "grasas": "4.4"
+  },
+  {
+    "id_alimento": 566,
+    "nombre": "Palitos de maíz con queso con leche en polvo",
+    "calorias": "528.0",
+    "proteinas": "6.2",
+    "carbohidratos": "58.4",
+    "grasas": "30.0"
+  },
+  {
+    "id_alimento": 567,
+    "nombre": "Palitos de maíz con queso sin leche en polvo",
+    "calorias": "496.0",
+    "proteinas": "6.0",
+    "carbohidratos": "58.4",
+    "grasas": "24.0"
+  },
+  {
+    "id_alimento": 568,
+    "nombre": "Papelón blanco ",
+    "calorias": "371.0",
+    "proteinas": "0.2",
+    "carbohidratos": "92.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 569,
+    "nombre": "Papelón negro ",
+    "calorias": "370.0",
+    "proteinas": "0.6",
+    "carbohidratos": "92.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 570,
+    "nombre": "Papelón rojo ",
+    "calorias": "360.0",
+    "proteinas": "0.7",
+    "carbohidratos": "89.4",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 571,
+    "nombre": "Pasta de tomate",
+    "calorias": "78.0",
+    "proteinas": "5.2",
+    "carbohidratos": "13.8",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 572,
+    "nombre": "Productos en polvo a base de azúcar. cacao y leche",
+    "calorias": "393.0",
+    "proteinas": "6.8",
+    "carbohidratos": "86.3",
+    "grasas": "2.3"
+  },
+  {
+    "id_alimento": 573,
+    "nombre": "Pudín en polvo",
+    "calorias": "382.0",
+    "proteinas": "0.0",
+    "carbohidratos": "94.9",
+    "grasas": "0.3"
+  },
+  {
+    "id_alimento": 574,
+    "nombre": "Caldo con fideos o arroz",
+    "calorias": "320.0",
+    "proteinas": "18.8",
+    "carbohidratos": "51.9",
+    "grasas": "4.3"
+  },
+  {
+    "id_alimento": 575,
+    "nombre": "Crema de pollo",
+    "calorias": "393.0",
+    "proteinas": "15.2",
+    "carbohidratos": "51.5",
+    "grasas": "14.1"
+  },
+  {
+    "id_alimento": 576,
+    "nombre": "Crema de vegetales",
+    "calorias": "352.0",
+    "proteinas": "12.6",
+    "carbohidratos": "55.9",
+    "grasas": "9.1"
+  },
+  {
+    "id_alimento": 577,
+    "nombre": "Cubito de carne ",
+    "calorias": "246.0",
+    "proteinas": "12.1",
+    "carbohidratos": "13.5",
+    "grasas": "15.9"
+  },
+  {
+    "id_alimento": 578,
+    "nombre": "Cubito de pollo ",
+    "calorias": "265.0",
+    "proteinas": "9.7",
+    "carbohidratos": "16.4",
+    "grasas": "17.8"
+  },
+  {
+    "id_alimento": 579,
+    "nombre": "Minesone",
+    "calorias": "0.0",
+    "proteinas": "13.5",
+    "carbohidratos": "58.7",
+    "grasas": "6.7"
+  },
+  {
+    "id_alimento": 580,
+    "nombre": "Sorbete de fruta",
+    "calorias": "152.0",
+    "proteinas": "1.1",
+    "carbohidratos": "33.6",
+    "grasas": "1.5"
+  },
+  {
+    "id_alimento": 581,
+    "nombre": "Tomate. puré de",
+    "calorias": "39.0",
+    "proteinas": "1.7",
+    "carbohidratos": "7.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 582,
+    "nombre": "Tomate. salsa de (tipo Ketchup)",
+    "calorias": "94.0",
+    "proteinas": "2.0",
+    "carbohidratos": "20.6",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 583,
+    "nombre": "Aguardiente (4% alcohol)",
+    "calorias": "278.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 584,
+    "nombre": "Cerveza (5% alcohol)",
+    "calorias": "48.0",
+    "proteinas": "0.6",
+    "carbohidratos": "3.8",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 585,
+    "nombre": "Ginebra (45% alcohol)",
+    "calorias": "263.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 586,
+    "nombre": "Ponche Crema (14% alcohol)",
+    "calorias": "220.0",
+    "proteinas": "4.5",
+    "carbohidratos": "14.4",
+    "grasas": "5.2"
+  },
+  {
+    "id_alimento": 587,
+    "nombre": "Ron (44% alcohol)",
+    "calorias": "305.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 588,
+    "nombre": "Vino (promedio 7.5% alcohol)",
+    "calorias": "53.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.1",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 589,
+    "nombre": "Vodka (4% alcohol)",
+    "calorias": "231.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 590,
+    "nombre": "Whisky (42.2% alcohol)",
+    "calorias": "293.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 591,
+    "nombre": "Bebida gaseosa",
+    "calorias": "48.0",
+    "proteinas": "0.0",
+    "carbohidratos": "12.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 592,
+    "nombre": "Café. infusión sin azúcar",
+    "calorias": "5.0",
+    "proteinas": "0.3",
+    "carbohidratos": "0.8",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 593,
+    "nombre": "Caña. jugo de",
+    "calorias": "63.0",
+    "proteinas": "0.2",
+    "carbohidratos": "15.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 594,
+    "nombre": "Coco. agua de",
+    "calorias": "18.0",
+    "proteinas": "0.2",
+    "carbohidratos": "4.1",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 595,
+    "nombre": "Chicha ",
+    "calorias": "98.0",
+    "proteinas": "0.6",
+    "carbohidratos": "23.8",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 596,
+    "nombre": "Chicha envasada (pure-pak) ",
+    "calorias": "85.0",
+    "proteinas": "1.6",
+    "carbohidratos": "19.5",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 597,
+    "nombre": "Malta",
+    "calorias": "48.0",
+    "proteinas": "0.6",
+    "carbohidratos": "11.5",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 598,
+    "nombre": "Manzana. jugo enlatado",
+    "calorias": "55.0",
+    "proteinas": "0.1",
+    "carbohidratos": "13.7",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 599,
+    "nombre": "Naranja. jugo fresco",
+    "calorias": "29.0",
+    "proteinas": "0.4",
+    "carbohidratos": "6.9",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 600,
+    "nombre": "Naranjada",
+    "calorias": "21.0",
+    "proteinas": "0.2",
+    "carbohidratos": "5.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 601,
+    "nombre": "Piña. jugo enlatado",
+    "calorias": "63.0",
+    "proteinas": "0.3",
+    "carbohidratos": "15.2",
+    "grasas": "0.1"
+  },
+  {
+    "id_alimento": 602,
+    "nombre": "Té. infusión",
+    "calorias": "2.0",
+    "proteinas": "0.1",
+    "carbohidratos": "0.4",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 603,
+    "nombre": "Uva. jugo de",
+    "calorias": "74.0",
+    "proteinas": "0.4",
+    "carbohidratos": "18.2",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 604,
+    "nombre": "Almendra",
+    "calorias": "579.0",
+    "proteinas": "18.6",
+    "carbohidratos": "4.3",
+    "grasas": "54.1"
+  },
+  {
+    "id_alimento": 605,
+    "nombre": "Avellana",
+    "calorias": "622.0",
+    "proteinas": "12.5",
+    "carbohidratos": "12.4",
+    "grasas": "58.0"
+  },
+  {
+    "id_alimento": 606,
+    "nombre": "Castaña. cocida",
+    "calorias": "190.0",
+    "proteinas": "3.6",
+    "carbohidratos": "39.7",
+    "grasas": "1.9"
+  },
+  {
+    "id_alimento": 607,
+    "nombre": "Maní tostado. sin película",
+    "calorias": "558.0",
+    "proteinas": "28.8",
+    "carbohidratos": "8.5",
+    "grasas": "45.4"
+  },
+  {
+    "id_alimento": 608,
+    "nombre": "Merey",
+    "calorias": "567.0",
+    "proteinas": "19.4",
+    "carbohidratos": "27.3",
+    "grasas": "42.2"
+  },
+  {
+    "id_alimento": 609,
+    "nombre": "Nuez",
+    "calorias": "772.0",
+    "proteinas": "14.0",
+    "carbohidratos": "11.5",
+    "grasas": "63.3"
+  },
+  {
+    "id_alimento": 610,
+    "nombre": "Nuez del Brasil",
+    "calorias": "692.0",
+    "proteinas": "15.4",
+    "carbohidratos": "5.3",
+    "grasas": "67.7"
+  },
+  {
+    "id_alimento": 611,
+    "nombre": "Pistacho",
+    "calorias": "581.0",
+    "proteinas": "17.6",
+    "carbohidratos": "11.6",
+    "grasas": "51.6"
+  },
+  {
+    "id_alimento": 612,
+    "nombre": "Carne de tortuga",
+    "calorias": "228.0",
+    "proteinas": "10.5",
+    "carbohidratos": "0.0",
+    "grasas": "20.7"
+  },
+  {
+    "id_alimento": 613,
+    "nombre": "Copoazú",
+    "calorias": "49.0",
+    "proteinas": "1.2",
+    "carbohidratos": "10.2",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 614,
+    "nombre": "Chufa",
+    "calorias": "317.0",
+    "proteinas": "4.9",
+    "carbohidratos": "45.4",
+    "grasas": "15.0"
+  },
+  {
+    "id_alimento": 615,
+    "nombre": "Guayaba brasilera",
+    "calorias": "12.0",
+    "proteinas": "0.5",
+    "carbohidratos": "2.4",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 616,
+    "nombre": "Harina de plátano",
+    "calorias": "330.0",
+    "proteinas": "2.9",
+    "carbohidratos": "79.2",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 617,
+    "nombre": "Larvas de guásimo",
+    "calorias": "55.0",
+    "proteinas": "7.8",
+    "carbohidratos": "3.3",
+    "grasas": "1.2"
+  },
+  {
+    "id_alimento": 618,
+    "nombre": "Manirote (también conocido",
+    "calorias": "58.0",
+    "proteinas": "0.8",
+    "carbohidratos": "13.4",
+    "grasas": "0.6"
+  },
+  {
+    "id_alimento": 619,
+    "nombre": "Mañoco ",
+    "calorias": "369.0",
+    "proteinas": "1.6",
+    "carbohidratos": "78.2",
+    "grasas": "0.4"
+  },
+  {
+    "id_alimento": 620,
+    "nombre": "Mañoco de pijiguao",
+    "calorias": "378.0",
+    "proteinas": "4.9",
+    "carbohidratos": "62.4",
+    "grasas": "12.1"
+  },
+  {
+    "id_alimento": 621,
+    "nombre": "Moriche gusano de. asado ",
+    "calorias": "230.0",
+    "proteinas": "8.2",
+    "carbohidratos": "5.9",
+    "grasas": "19.2"
+  },
+  {
+    "id_alimento": 622,
+    "nombre": "Pijiguao",
+    "calorias": "132.0",
+    "proteinas": "3.7",
+    "carbohidratos": "12.0",
+    "grasas": "5.0"
+  },
+  {
+    "id_alimento": 623,
+    "nombre": "Tupiro",
+    "calorias": "20.0",
+    "proteinas": "0.5",
+    "carbohidratos": "4.4",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 624,
+    "nombre": "Yorumo ",
+    "calorias": "285.0",
+    "proteinas": "0.2",
+    "carbohidratos": "70.9",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 625,
+    "nombre": "Sal ",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 626,
+    "nombre": "Canela",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 627,
+    "nombre": "Cebollin",
+    "calorias": "43.0",
+    "proteinas": "1.4",
+    "carbohidratos": "9.0",
+    "grasas": "0.2"
+  },
+  {
+    "id_alimento": 628,
+    "nombre": "Vinagre",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 629,
+    "nombre": "Alcaparra",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 632,
+    "nombre": "Queso Camenbert",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 633,
+    "nombre": "Queso Pategrás",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 634,
+    "nombre": "Cebolla morada",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 635,
+    "nombre": "Endivia",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 636,
+    "nombre": "Cereza",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 637,
+    "nombre": "Jugo de Limón",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 638,
+    "nombre": "Dulce de Membrillo",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 639,
+    "nombre": "Pasitas",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 640,
+    "nombre": "Albahaca",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 641,
+    "nombre": "Cilantro",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 642,
+    "nombre": "Comino",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 643,
+    "nombre": "Laurel",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 644,
+    "nombre": "Nuez  moscada",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 645,
+    "nombre": "Oregano",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 646,
+    "nombre": "Pimenta Blanca",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 647,
+    "nombre": "Bebida gaseosa",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 648,
+    "nombre": "Romero",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 649,
+    "nombre": "Bebida gaseosa",
+    "calorias": "321.0",
+    "proteinas": "10.0",
+    "carbohidratos": "55.0",
+    "grasas": "5.0"
+  },
+  {
+    "id_alimento": 650,
+    "nombre": "Salsa Inglesa",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 652,
+    "nombre": "Bebida gaseosa",
+    "calorias": "748.0",
+    "proteinas": "1.1",
+    "carbohidratos": "6.2",
+    "grasas": "80.0"
+  },
+  {
+    "id_alimento": 651,
+    "nombre": "Bebida gaseosa",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  },
+  {
+    "id_alimento": 653,
+    "nombre": "Anís dulce",
+    "calorias": "0.0",
+    "proteinas": "0.0",
+    "carbohidratos": "0.0",
+    "grasas": "0.0"
+  }
+]

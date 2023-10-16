@@ -1,6 +1,7 @@
 import express from 'express'
 import { pool } from './DBpg.js'
 import { Port } from './config.js'
+import fs from 'fs'
 
 const app = express()
 
@@ -21,6 +22,30 @@ app.get('/main', async(req, res)=>{
   const pageData = data.rows.slice(startPage, endPage)
 
   res.json(pageData)
+
+})
+
+app.post('/agregarTabla', async(req, res) => {
+  const result = await pool.query('CREATE TABLE alimento (id_alimento serial NOT NULL constraint pk_alimento primary key, nombre character varying(100) NULL, calorias numeric(5, 1) NULL, proteinas numeric(4, 1) NULL, carbohidratos numeric(4, 1) NULL, grasas numeric(4, 1) NULL)')
+  res.json(result.rows[0])
+})
+
+app.post('/pushData', async (req, res) => {
+
+  try {
+    const data = await fs.readFile('alimentos.json', 'utf8')
+    const alimentos = JSON.parse(data)
+
+    alimentos.array.forEach(async (element) => {
+      await pool.query(`insert into alimento(nombre, calorias, proteinas, carbohidratos, grasas) values(${element.nombre}, ${parseInt(element.calorias)}, ${parseInt(element.proteinas)}, ${parseInt(element.carbohidratos)}, ${parseInt(element.grasas)});`)
+      
+    });
+    
+  } catch (error) {
+    console.error(error)
+  }
+
+
 
 })
 
