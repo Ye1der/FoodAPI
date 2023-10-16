@@ -25,11 +25,11 @@ app.get('/main', async(req, res)=>{
 
 })
 
-app.get('/agregarTabla', async(req, res) => {
-  
+app.get('/addTable', async(req, res) => {
+
   try {
     const query = `
-      CREATE TABLE alimento2 (
+      CREATE TABLE alimento (
       id_alimento serial NOT NULL constraint pk_alimento2 primary key, 
       nombre character varying(100) not null, 
       calorias numeric(5, 1) not null, 
@@ -57,7 +57,7 @@ app.get('/pushData', async (req, res) => {
     for ( const element of alimentos) {
       const {nombre, calorias, proteinas, carbohidratos, grasas} = element
       const values = [nombre, parseFloat(calorias), parseFloat(proteinas), parseFloat(carbohidratos), parseFloat(grasas)]
-      const query = `insert into alimento2(nombre, calorias, proteinas, carbohidratos, grasas) values($1, $2, $3, $4, $5);`
+      const query = `insert into alimento(nombre, calorias, proteinas, carbohidratos, grasas) values($1, $2, $3, $4, $5);`
       await pool.query(query, values)
     };
 
@@ -66,6 +66,19 @@ app.get('/pushData', async (req, res) => {
   } catch (error) {
     console.error("Error al insertar los datos", error)
     res.status(500).send("Error al insertar los datos")
+  }
+})
+
+app.get('/deleteTable', async (req, res) => {
+
+  try {
+    const query = `drop table if exists ${req.params.table || 'tabla'}`;
+    await pool.query(query)
+    res.status(200).send("Se elimino la tabla con exito")
+
+  } catch (error) {
+    console.error("Error al eliminar la tabla", error)
+    res.status(500).send("Error al eliminar la tabla")
   }
 })
 
