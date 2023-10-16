@@ -25,12 +25,16 @@ app.get('/main', async(req, res)=>{
 
 })
 
-app.post('/agregarTabla', async(req, res) => {
-  const result = await pool.query('CREATE TABLE alimento (id_alimento serial NOT NULL constraint pk_alimento primary key, nombre character varying(100) NULL, calorias numeric(5, 1) NULL, proteinas numeric(4, 1) NULL, carbohidratos numeric(4, 1) NULL, grasas numeric(4, 1) NULL)')
-  res.json(result.rows[0])
+app.get('/agregarTabla', async(req, res) => {
+  try {
+    const result = await pool.query('CREATE TABLE alimento (id_alimento serial NOT NULL constraint pk_alimento primary key, nombre character varying(100) NULL, calorias numeric(5, 1) NULL, proteinas numeric(4, 1) NULL, carbohidratos numeric(4, 1) NULL, grasas numeric(4, 1) NULL)')
+    res.json(result.rows[0])
+  } catch (error) {
+    console.error(error);
+  }
 })
 
-app.post('/pushData', async (req, res) => {
+app.get('/pushData', async (req, res) => {
 
   try {
     const data = await fs.readFile('alimentos.json', 'utf8')
@@ -38,7 +42,7 @@ app.post('/pushData', async (req, res) => {
 
     alimentos.array.forEach(async (element) => {
       await pool.query(`insert into alimento(nombre, calorias, proteinas, carbohidratos, grasas) values(${element.nombre}, ${parseInt(element.calorias)}, ${parseInt(element.proteinas)}, ${parseInt(element.carbohidratos)}, ${parseInt(element.grasas)});`)
-      
+
     });
     
   } catch (error) {
