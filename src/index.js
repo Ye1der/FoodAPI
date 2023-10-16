@@ -13,7 +13,7 @@ const app = express()
 //   next();
 // })
 
-const originsCors = ['http://localhost:5173', 'https://rutine-editor.vercel.app/']
+const originsCors = ['http://localhost:5173', 'https://rutine-editor.vercel.app']
 
 const corsOptions = {
   origin: (origin, callback) => {
