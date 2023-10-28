@@ -1,8 +1,8 @@
 import express from 'express'
 import { pool } from './DBpg.js'
 import { Port } from './config.js'
-import fs from 'fs/promises'
-import cors from 'cors'
+// import fs from 'fs/promises'
+// import cors from 'cors'
 
 const app = express()
 
@@ -13,21 +13,22 @@ const app = express()
 //   next();
 // })
 
-const originsCors = ['http://localhost:5173', 'https://rutine-editor.vercel.app']
+// Cors -->
+// const originsCors = ['http://localhost:5173', 'https://rutine-editor.vercel.app']
 
-const corsOptions = {
-  origin: (origin, callback) => {
-    if (originsCors.indexOf(origin) !== -1 || !origin) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-  methods: 'GET,POST',
-  optionsSuccessStatus: 204,
-}; 
+// const corsOptions = {
+//   origin: (origin, callback) => {
+//     if (originsCors.indexOf(origin) !== -1 || !origin) {
+//       callback(null, true);
+//     } else {
+//       callback(new Error('Not allowed by CORS'));
+//     }
+//   },
+//   methods: 'GET,POST',
+//   optionsSuccessStatus: 204,
+// }; 
 
-app.use(cors(corsOptions))
+// app.use(cors(corsOptions))
 
 app.get('/main', async(req, res)=>{
   const search = req.query.food
